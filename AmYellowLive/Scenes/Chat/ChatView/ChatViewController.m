@@ -65,9 +65,10 @@
             // 如果是其它群成员，则观看直播
             [_cameraView startPlay];
         }
+        self.tableView.backgroundColor = [UIColor clearColor];
         
-        [self.tableView addSubview:_cameraView];
-        [self.tableView sendSubviewToBack:_cameraView];
+        [self.view addSubview:_cameraView];
+        [self.view sendSubviewToBack:_cameraView];
     }
 }
 

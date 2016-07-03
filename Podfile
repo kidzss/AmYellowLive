@@ -7,6 +7,7 @@ target 'AmYellowLive' do
 
   # Pods for AmYellowLive
   pod 'HyphenateSDK'
+  pod 'Masonry'
   # pod 'HyphenateFullSDK'
 
   target 'AmYellowLiveTests' do

@@ -1,12 +1,15 @@
 PODS:
   - HyphenateSDK (3.1.3)
+  - Masonry (1.0.1)
 
 DEPENDENCIES:
   - HyphenateSDK
+  - Masonry
 
 SPEC CHECKSUMS:
   HyphenateSDK: b70987d3367391bedd986d7d3de63d07ab1d0df5
+  Masonry: a1a931a0d08870ed8ae415a2ea5ea68ebcac77df
 
-PODFILE CHECKSUM: f3052a39e45aafc1642408bf5e93e3087573462d
+PODFILE CHECKSUM: ae2bf1ac603a2ff1e52d019c9d4060a2dbe9e282
 
 COCOAPODS: 1.0.0
