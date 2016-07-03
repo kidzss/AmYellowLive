@@ -1,0 +1,21 @@
+//
+//  AmYellow-Prefix.pch
+//  AmYellowLive
+//
+//  Created by uuzuche on 16/7/3.
+//  Copyright © 2016年 uuzuche. All rights reserved.
+//
+
+#import <Availability.h>
+
+#ifndef __IPHONE_3_0
+#warning "This project uses features only available in iOS SDK 3.0 and later."
+#endif
+
+#define REDPACKET_AVALABLE
+
+#ifdef __OBJC__
+
+#import "UCloudDefine.h"
+
+#endif
