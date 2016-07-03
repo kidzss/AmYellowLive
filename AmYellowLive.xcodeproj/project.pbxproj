@@ -12,8 +12,6 @@
 		D11DBE37C3D7748182503280 /* libPods-AmYellowLive.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 3812CF922CCF01EA8DCDF834 /* libPods-AmYellowLive.a */; };
 		D71DE8B11D28DFE100608189 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = D71DE8B01D28DFE100608189 /* main.m */; };
 		D71DE8B41D28DFE100608189 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = D71DE8B31D28DFE100608189 /* AppDelegate.m */; };
-		D71DE8B71D28DFE100608189 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D71DE8B61D28DFE100608189 /* ViewController.m */; };
-		D71DE8BA1D28DFE100608189 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D71DE8B81D28DFE100608189 /* Main.storyboard */; };
 		D71DE8BC1D28DFE100608189 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D71DE8BB1D28DFE100608189 /* Assets.xcassets */; };
 		D71DE8BF1D28DFE100608189 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D71DE8BD1D28DFE100608189 /* LaunchScreen.storyboard */; };
 		D71DE8CA1D28DFE100608189 /* AmYellowLiveTests.m in Sources */ = {isa = PBXBuildFile; fileRef = D71DE8C91D28DFE100608189 /* AmYellowLiveTests.m */; };
@@ -68,6 +66,8 @@
 		D7AF78161D28E48E00CA4F5F /* UCloudMediaViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D7AF77EE1D28E48E00CA4F5F /* UCloudMediaViewController.m */; };
 		D7AF78171D28E48E00CA4F5F /* UCloudMediaViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = D7AF77EF1D28E48E00CA4F5F /* UCloudMediaViewController.xib */; };
 		D7AF78181D28E48E00CA4F5F /* UCloudProgressView.m in Sources */ = {isa = PBXBuildFile; fileRef = D7AF77F11D28E48E00CA4F5F /* UCloudProgressView.m */; };
+		D7D1AD861D2908D90042961A /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D7D1AD851D2908D90042961A /* ViewController.m */; };
+		D7D1AD881D2909260042961A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D7D1AD871D2909260042961A /* Main.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -100,9 +100,6 @@
 		D71DE8B01D28DFE100608189 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		D71DE8B21D28DFE100608189 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		D71DE8B31D28DFE100608189 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		D71DE8B51D28DFE100608189 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = ViewController.h; path = ../ViewController.h; sourceTree = "<group>"; };
-		D71DE8B61D28DFE100608189 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = ViewController.m; path = ../ViewController.m; sourceTree = "<group>"; };
-		D71DE8B91D28DFE100608189 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		D71DE8BB1D28DFE100608189 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D71DE8BE1D28DFE100608189 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D71DE8C01D28DFE100608189 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -354,6 +351,9 @@
 		D7AF77EF1D28E48E00CA4F5F /* UCloudMediaViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = UCloudMediaViewController.xib; sourceTree = "<group>"; };
 		D7AF77F01D28E48E00CA4F5F /* UCloudProgressView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudProgressView.h; sourceTree = "<group>"; };
 		D7AF77F11D28E48E00CA4F5F /* UCloudProgressView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = UCloudProgressView.m; sourceTree = "<group>"; };
+		D7D1AD841D2908D90042961A /* ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		D7D1AD851D2908D90042961A /* ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		D7D1AD871D2909260042961A /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
 		EB38CEBB3E8B31822749BA77 /* Pods-AmYellowLiveUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AmYellowLiveUITests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-AmYellowLiveUITests/Pods-AmYellowLiveUITests.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -516,9 +516,9 @@
 		D71DEA131D28E36100608189 /* Scenes */ = {
 			isa = PBXGroup;
 			children = (
-				D71DE8B51D28DFE100608189 /* ViewController.h */,
-				D71DE8B61D28DFE100608189 /* ViewController.m */,
-				D71DE8B81D28DFE100608189 /* Main.storyboard */,
+				D7D1AD841D2908D90042961A /* ViewController.h */,
+				D7D1AD851D2908D90042961A /* ViewController.m */,
+				D7D1AD871D2909260042961A /* Main.storyboard */,
 			);
 			path = Scenes;
 			sourceTree = "<group>";
@@ -942,6 +942,7 @@
 				D7AF78051D28E48E00CA4F5F /* danmu_h.png in Resources */,
 				D7AF780E1D28E48E00CA4F5F /* icon_screen_shot_action.png in Resources */,
 				D7AF77FF1D28E48E00CA4F5F /* bg_screen_shot_complete@3x.png in Resources */,
+				D7D1AD881D2909260042961A /* Main.storyboard in Resources */,
 				D7AF78091D28E48E00CA4F5F /* icon_bottomview_pause_button_normal.png in Resources */,
 				D7AF78081D28E48E00CA4F5F /* icon_bottomview_brightness_button_selected.png in Resources */,
 				D7AF78111D28E48E00CA4F5F /* icon_topview_right_button_normal.png in Resources */,
@@ -961,7 +962,6 @@
 				D7AF77F31D28E48E00CA4F5F /* UcCameraView.xib in Resources */,
 				D71DE8BC1D28DFE100608189 /* Assets.xcassets in Resources */,
 				D7AF780D1D28E48E00CA4F5F /* icon_play_status.png in Resources */,
-				D71DE8BA1D28DFE100608189 /* Main.storyboard in Resources */,
 				D7AF780C1D28E48E00CA4F5F /* icon_bottomview_volume_button_selected.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -1110,7 +1110,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D71DE8B71D28DFE100608189 /* ViewController.m in Sources */,
 				D7AF77F81D28E48E00CA4F5F /* YzdHUDBackgroundView.m in Sources */,
 				D7AF77FB1D28E48E00CA4F5F /* YzdHUDLabel.m in Sources */,
 				D7AF77F91D28E48E00CA4F5F /* YzdHUDImageView.m in Sources */,
@@ -1120,6 +1119,7 @@
 				D7AF77F51D28E48E00CA4F5F /* FilterManager.m in Sources */,
 				D7AF77F71D28E48E00CA4F5F /* UIWindow+YzdHUD.m in Sources */,
 				D7AF78181D28E48E00CA4F5F /* UCloudProgressView.m in Sources */,
+				D7D1AD861D2908D90042961A /* ViewController.m in Sources */,
 				D7AF78151D28E48E00CA4F5F /* UCloudLoadingView.m in Sources */,
 				D71DE8B41D28DFE100608189 /* AppDelegate.m in Sources */,
 				D7AF78161D28E48E00CA4F5F /* UCloudMediaViewController.m in Sources */,
@@ -1160,15 +1160,6 @@
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
-		D71DE8B81D28DFE100608189 /* Main.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				D71DE8B91D28DFE100608189 /* Base */,
-			);
-			name = Main.storyboard;
-			path = ..;
-			sourceTree = "<group>";
-		};
 		D71DE8BD1D28DFE100608189 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
