@@ -7,6 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		166D50257211703EC74E4D9A /* libPods-AmYellowLiveUITests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 06A648037859700E893752B9 /* libPods-AmYellowLiveUITests.a */; };
+		4265366463BAE361F926E2A1 /* libPods-AmYellowLiveTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 0723C19A183CB293281F7EC1 /* libPods-AmYellowLiveTests.a */; };
+		D11DBE37C3D7748182503280 /* libPods-AmYellowLive.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 3812CF922CCF01EA8DCDF834 /* libPods-AmYellowLive.a */; };
 		D71DE8B11D28DFE100608189 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = D71DE8B01D28DFE100608189 /* main.m */; };
 		D71DE8B41D28DFE100608189 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = D71DE8B31D28DFE100608189 /* AppDelegate.m */; };
 		D71DE8B71D28DFE100608189 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D71DE8B61D28DFE100608189 /* ViewController.m */; };
@@ -85,6 +88,14 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		06A648037859700E893752B9 /* libPods-AmYellowLiveUITests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-AmYellowLiveUITests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		0723C19A183CB293281F7EC1 /* libPods-AmYellowLiveTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-AmYellowLiveTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		09D276B5D0A26FF9921FAC82 /* Pods-AmYellowLive.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AmYellowLive.release.xcconfig"; path = "Pods/Target Support Files/Pods-AmYellowLive/Pods-AmYellowLive.release.xcconfig"; sourceTree = "<group>"; };
+		253B15A198455BEDD9B2C41A /* Pods-AmYellowLiveUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AmYellowLiveUITests.release.xcconfig"; path = "Pods/Target Support Files/Pods-AmYellowLiveUITests/Pods-AmYellowLiveUITests.release.xcconfig"; sourceTree = "<group>"; };
+		374BA82C1D3B171BF3AF7761 /* Pods-AmYellowLive.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AmYellowLive.debug.xcconfig"; path = "Pods/Target Support Files/Pods-AmYellowLive/Pods-AmYellowLive.debug.xcconfig"; sourceTree = "<group>"; };
+		3812CF922CCF01EA8DCDF834 /* libPods-AmYellowLive.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-AmYellowLive.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		7871726C12C163F1E5B690A6 /* Pods-AmYellowLiveTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AmYellowLiveTests.release.xcconfig"; path = "Pods/Target Support Files/Pods-AmYellowLiveTests/Pods-AmYellowLiveTests.release.xcconfig"; sourceTree = "<group>"; };
+		A4DCC156BDBAC7C8DC69DA07 /* Pods-AmYellowLiveTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AmYellowLiveTests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-AmYellowLiveTests/Pods-AmYellowLiveTests.debug.xcconfig"; sourceTree = "<group>"; };
 		D71DE8AC1D28DFE100608189 /* AmYellowLive.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AmYellowLive.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D71DE8B01D28DFE100608189 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		D71DE8B21D28DFE100608189 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -343,6 +354,7 @@
 		D7AF77EF1D28E48E00CA4F5F /* UCloudMediaViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = UCloudMediaViewController.xib; sourceTree = "<group>"; };
 		D7AF77F01D28E48E00CA4F5F /* UCloudProgressView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudProgressView.h; sourceTree = "<group>"; };
 		D7AF77F11D28E48E00CA4F5F /* UCloudProgressView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = UCloudProgressView.m; sourceTree = "<group>"; };
+		EB38CEBB3E8B31822749BA77 /* Pods-AmYellowLiveUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AmYellowLiveUITests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-AmYellowLiveUITests/Pods-AmYellowLiveUITests.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -363,6 +375,7 @@
 				D71DE9F81D28E0E900608189 /* libstdc++.6.0.9.tbd in Frameworks */,
 				D71DE9F61D28E0DD00608189 /* libsqlite3.tbd in Frameworks */,
 				D71DE9F41D28E0D200608189 /* libiconv.tbd in Frameworks */,
+				D11DBE37C3D7748182503280 /* libPods-AmYellowLive.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -370,6 +383,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4265366463BAE361F926E2A1 /* libPods-AmYellowLiveTests.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -377,12 +391,26 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				166D50257211703EC74E4D9A /* libPods-AmYellowLiveUITests.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		034C1CE411E562580BA280E6 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				374BA82C1D3B171BF3AF7761 /* Pods-AmYellowLive.debug.xcconfig */,
+				09D276B5D0A26FF9921FAC82 /* Pods-AmYellowLive.release.xcconfig */,
+				A4DCC156BDBAC7C8DC69DA07 /* Pods-AmYellowLiveTests.debug.xcconfig */,
+				7871726C12C163F1E5B690A6 /* Pods-AmYellowLiveTests.release.xcconfig */,
+				EB38CEBB3E8B31822749BA77 /* Pods-AmYellowLiveUITests.debug.xcconfig */,
+				253B15A198455BEDD9B2C41A /* Pods-AmYellowLiveUITests.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
 		D71DE8A31D28DFE100608189 = {
 			isa = PBXGroup;
 			children = (
@@ -392,6 +420,7 @@
 				D71DEA141D28E3F400608189 /* Vendors */,
 				D71DE8E21D28E03E00608189 /* Frameworks */,
 				D71DE8AD1D28DFE100608189 /* Products */,
+				034C1CE411E562580BA280E6 /* Pods */,
 			);
 			sourceTree = "<group>";
 		};
@@ -462,6 +491,9 @@
 				D71DEA011D28E11200608189 /* AudioToolbox.framework */,
 				D71DE9FF1D28E10800608189 /* MobileCoreServices.framework */,
 				D71DE9FD1D28E0FF00608189 /* ImageIO.framework */,
+				3812CF922CCF01EA8DCDF834 /* libPods-AmYellowLive.a */,
+				0723C19A183CB293281F7EC1 /* libPods-AmYellowLiveTests.a */,
+				06A648037859700E893752B9 /* libPods-AmYellowLiveUITests.a */,
 			);
 			name = Frameworks;
 			path = AmYellowLive;
@@ -799,9 +831,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = D71DE8D91D28DFE100608189 /* Build configuration list for PBXNativeTarget "AmYellowLive" */;
 			buildPhases = (
+				AC3C35408DDFBE1EB4571369 /* 📦 Check Pods Manifest.lock */,
 				D71DE8A81D28DFE100608189 /* Sources */,
 				D71DE8A91D28DFE100608189 /* Frameworks */,
 				D71DE8AA1D28DFE100608189 /* Resources */,
+				C3F6E9C20615B1AE0EEB94E4 /* 📦 Embed Pods Frameworks */,
+				F7B92883153FA1AA77677132 /* 📦 Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -816,9 +851,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = D71DE8DC1D28DFE100608189 /* Build configuration list for PBXNativeTarget "AmYellowLiveTests" */;
 			buildPhases = (
+				5A52D9D6B3EBBBEC99F663D8 /* 📦 Check Pods Manifest.lock */,
 				D71DE8C11D28DFE100608189 /* Sources */,
 				D71DE8C21D28DFE100608189 /* Frameworks */,
 				D71DE8C31D28DFE100608189 /* Resources */,
+				145F1CDE791D0292933F0D20 /* 📦 Embed Pods Frameworks */,
+				50B4679BE8135D8CC3E1DF80 /* 📦 Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -834,9 +872,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = D71DE8DF1D28DFE100608189 /* Build configuration list for PBXNativeTarget "AmYellowLiveUITests" */;
 			buildPhases = (
+				80672D9FEB83181E9EC498AE /* 📦 Check Pods Manifest.lock */,
 				D71DE8CC1D28DFE100608189 /* Sources */,
 				D71DE8CD1D28DFE100608189 /* Frameworks */,
 				D71DE8CE1D28DFE100608189 /* Resources */,
+				05AF972DB626FB0A28AA7AD8 /* 📦 Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -941,6 +981,129 @@
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		05AF972DB626FB0A28AA7AD8 /* 📦 Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "📦 Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-AmYellowLiveUITests/Pods-AmYellowLiveUITests-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		145F1CDE791D0292933F0D20 /* 📦 Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "📦 Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-AmYellowLiveTests/Pods-AmYellowLiveTests-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		50B4679BE8135D8CC3E1DF80 /* 📦 Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "📦 Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-AmYellowLiveTests/Pods-AmYellowLiveTests-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		5A52D9D6B3EBBBEC99F663D8 /* 📦 Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "📦 Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [[ $? != 0 ]] ; then\n    cat << EOM\nerror: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\nEOM\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+		80672D9FEB83181E9EC498AE /* 📦 Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "📦 Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [[ $? != 0 ]] ; then\n    cat << EOM\nerror: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\nEOM\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+		AC3C35408DDFBE1EB4571369 /* 📦 Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "📦 Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [[ $? != 0 ]] ; then\n    cat << EOM\nerror: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\nEOM\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+		C3F6E9C20615B1AE0EEB94E4 /* 📦 Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "📦 Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-AmYellowLive/Pods-AmYellowLive-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		F7B92883153FA1AA77677132 /* 📦 Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "📦 Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-AmYellowLive/Pods-AmYellowLive-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		D71DE8A81D28DFE100608189 /* Sources */ = {
@@ -1103,6 +1266,7 @@
 		};
 		D71DE8DA1D28DFE100608189 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 374BA82C1D3B171BF3AF7761 /* Pods-AmYellowLive.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ENABLE_BITCODE = NO;
@@ -1125,6 +1289,7 @@
 		};
 		D71DE8DB1D28DFE100608189 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 09D276B5D0A26FF9921FAC82 /* Pods-AmYellowLive.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ENABLE_BITCODE = NO;
@@ -1147,6 +1312,7 @@
 		};
 		D71DE8DD1D28DFE100608189 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = A4DCC156BDBAC7C8DC69DA07 /* Pods-AmYellowLiveTests.debug.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				INFOPLIST_FILE = AmYellowLiveTests/Info.plist;
@@ -1159,6 +1325,7 @@
 		};
 		D71DE8DE1D28DFE100608189 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 7871726C12C163F1E5B690A6 /* Pods-AmYellowLiveTests.release.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				INFOPLIST_FILE = AmYellowLiveTests/Info.plist;
@@ -1171,6 +1338,7 @@
 		};
 		D71DE8E01D28DFE100608189 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = EB38CEBB3E8B31822749BA77 /* Pods-AmYellowLiveUITests.debug.xcconfig */;
 			buildSettings = {
 				INFOPLIST_FILE = AmYellowLiveUITests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
@@ -1182,6 +1350,7 @@
 		};
 		D71DE8E11D28DFE100608189 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 253B15A198455BEDD9B2C41A /* Pods-AmYellowLiveUITests.release.xcconfig */;
 			buildSettings = {
 				INFOPLIST_FILE = AmYellowLiveUITests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
