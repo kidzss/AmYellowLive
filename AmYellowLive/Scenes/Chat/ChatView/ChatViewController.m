@@ -19,11 +19,14 @@
 #import "ContactListSelectViewController.h"
 #import "ChatDemoHelper.h"
 
+#import "UcCameraView.h"
+
 @interface ChatViewController ()<UIAlertViewDelegate,EMClientDelegate>
 {
     UIMenuItem *_copyMenuItem;
     UIMenuItem *_deleteMenuItem;
     UIMenuItem *_transpondMenuItem;
+    UcCameraView *_cameraView;
 }
 
 @property (nonatomic) BOOL isPlayingAudio;
@@ -47,6 +50,25 @@
     [[NSNotificationCenter defaultCenter] addObserver:self selector:@selector(insertCallMessage:) name:@"insertCallMessage" object:nil];
     [[NSNotificationCenter defaultCenter] addObserver:self selector:@selector(handleCallNotification:) name:@"callOutWithChatter" object:nil];
     [[NSNotificationCenter defaultCenter] addObserver:self selector:@selector(handleCallNotification:) name:@"callControllerClose" object:nil];
+    if (self.conversation.type == EMConversationTypeGroupChat)
+    {
+        _cameraView = [[UcCameraView alloc] initWithStreamID:self.conversation.conversationId];
+        _cameraView.frame = [[UIScreen mainScreen] bounds];
+        
+        NSString *loginUsername = [[EMClient sharedClient] currentUsername];
+        EMError *error = nil;
+        EMGroup *group = [[EMClient sharedClient].groupManager fetchGroupInfo:self.conversation.conversationId includeMembersList:YES error:&error];
+        if ([group.owner isEqualToString:loginUsername]) {
+            // 如果是群主，则开始录制直播
+            [_cameraView startRecord];
+        }else{
+            // 如果是其它群成员，则观看直播
+            [_cameraView startPlay];
+        }
+        
+        [self.tableView addSubview:_cameraView];
+        [self.tableView sendSubviewToBack:_cameraView];
+    }
 }
 
 - (void)didReceiveMemoryWarning {
@@ -245,6 +267,7 @@
 
 - (void)backAction
 {
+    [_cameraView stopRecord];
     [[EMClient sharedClient].chatManager removeDelegate:self];
     [[EMClient sharedClient].roomManager removeDelegate:self];
     [[ChatDemoHelper shareHelper] setChatVC:nil];
