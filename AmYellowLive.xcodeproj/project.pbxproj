@@ -15,43 +15,6 @@
 		D71DE8BF1D28DFE100608189 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D71DE8BD1D28DFE100608189 /* LaunchScreen.storyboard */; };
 		D71DE8CA1D28DFE100608189 /* AmYellowLiveTests.m in Sources */ = {isa = PBXBuildFile; fileRef = D71DE8C91D28DFE100608189 /* AmYellowLiveTests.m */; };
 		D71DE8D51D28DFE100608189 /* AmYellowLiveUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = D71DE8D41D28DFE100608189 /* AmYellowLiveUITests.m */; };
-		D71DE9CE1D28E0B700608189 /* libUCloudMediaPlayer.a in Frameworks */ = {isa = PBXBuildFile; fileRef = D71DE8E61D28E0B600608189 /* libUCloudMediaPlayer.a */; };
-		D71DE9CF1D28E0B700608189 /* FilterManager.m in Sources */ = {isa = PBXBuildFile; fileRef = D71DE99A1D28E0B700608189 /* FilterManager.m */; };
-		D71DE9D01D28E0B700608189 /* libUCloudMediaRecorder.a in Frameworks */ = {isa = PBXBuildFile; fileRef = D71DE99B1D28E0B700608189 /* libUCloudMediaRecorder.a */; };
-		D71DE9D11D28E0B700608189 /* UIWindow+YzdHUD.m in Sources */ = {isa = PBXBuildFile; fileRef = D71DE9A01D28E0B700608189 /* UIWindow+YzdHUD.m */; };
-		D71DE9D21D28E0B700608189 /* YzdHUDBackgroundView.m in Sources */ = {isa = PBXBuildFile; fileRef = D71DE9A21D28E0B700608189 /* YzdHUDBackgroundView.m */; };
-		D71DE9D31D28E0B700608189 /* YzdHUDImageView.m in Sources */ = {isa = PBXBuildFile; fileRef = D71DE9A41D28E0B700608189 /* YzdHUDImageView.m */; };
-		D71DE9D41D28E0B700608189 /* YzdHUDIndicator.m in Sources */ = {isa = PBXBuildFile; fileRef = D71DE9A61D28E0B700608189 /* YzdHUDIndicator.m */; };
-		D71DE9D51D28E0B700608189 /* YzdHUDLabel.m in Sources */ = {isa = PBXBuildFile; fileRef = D71DE9A81D28E0B700608189 /* YzdHUDLabel.m */; };
-		D71DE9D61D28E0B700608189 /* PlayerManager.m in Sources */ = {isa = PBXBuildFile; fileRef = D71DE9AA1D28E0B700608189 /* PlayerManager.m */; };
-		D71DE9D71D28E0B700608189 /* bg_screen_shot_complete.png in Resources */ = {isa = PBXBuildFile; fileRef = D71DE9AC1D28E0B700608189 /* bg_screen_shot_complete.png */; };
-		D71DE9D81D28E0B700608189 /* bg_screen_shot_complete@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = D71DE9AD1D28E0B700608189 /* bg_screen_shot_complete@2x.png */; };
-		D71DE9D91D28E0B700608189 /* bg_screen_shot_complete@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = D71DE9AE1D28E0B700608189 /* bg_screen_shot_complete@3x.png */; };
-		D71DE9DA1D28E0B700608189 /* bg_screen_shot_frame.png in Resources */ = {isa = PBXBuildFile; fileRef = D71DE9AF1D28E0B700608189 /* bg_screen_shot_frame.png */; };
-		D71DE9DB1D28E0B700608189 /* bright_point.png in Resources */ = {isa = PBXBuildFile; fileRef = D71DE9B01D28E0B700608189 /* bright_point.png */; };
-		D71DE9DC1D28E0B700608189 /* brightness_bgiphone.png in Resources */ = {isa = PBXBuildFile; fileRef = D71DE9B11D28E0B700608189 /* brightness_bgiphone.png */; };
-		D71DE9DD1D28E0B700608189 /* brightness_bg~iphone@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = D71DE9B21D28E0B700608189 /* brightness_bg~iphone@3x.png */; };
-		D71DE9DE1D28E0B700608189 /* danmu.png in Resources */ = {isa = PBXBuildFile; fileRef = D71DE9B31D28E0B700608189 /* danmu.png */; };
-		D71DE9DF1D28E0B700608189 /* danmu_h.png in Resources */ = {isa = PBXBuildFile; fileRef = D71DE9B41D28E0B700608189 /* danmu_h.png */; };
-		D71DE9E01D28E0B700608189 /* ic_screen_shot.png in Resources */ = {isa = PBXBuildFile; fileRef = D71DE9B51D28E0B700608189 /* ic_screen_shot.png */; };
-		D71DE9E11D28E0B700608189 /* icon_bottomview_brightness_button_normal.png in Resources */ = {isa = PBXBuildFile; fileRef = D71DE9B61D28E0B700608189 /* icon_bottomview_brightness_button_normal.png */; };
-		D71DE9E21D28E0B700608189 /* icon_bottomview_brightness_button_selected.png in Resources */ = {isa = PBXBuildFile; fileRef = D71DE9B71D28E0B700608189 /* icon_bottomview_brightness_button_selected.png */; };
-		D71DE9E31D28E0B700608189 /* icon_bottomview_pause_button_normal.png in Resources */ = {isa = PBXBuildFile; fileRef = D71DE9B81D28E0B700608189 /* icon_bottomview_pause_button_normal.png */; };
-		D71DE9E41D28E0B700608189 /* icon_bottomview_play_button_normal.png in Resources */ = {isa = PBXBuildFile; fileRef = D71DE9B91D28E0B700608189 /* icon_bottomview_play_button_normal.png */; };
-		D71DE9E51D28E0B700608189 /* icon_bottomview_volume_button_normal.png in Resources */ = {isa = PBXBuildFile; fileRef = D71DE9BA1D28E0B700608189 /* icon_bottomview_volume_button_normal.png */; };
-		D71DE9E61D28E0B700608189 /* icon_bottomview_volume_button_selected.png in Resources */ = {isa = PBXBuildFile; fileRef = D71DE9BB1D28E0B700608189 /* icon_bottomview_volume_button_selected.png */; };
-		D71DE9E71D28E0B700608189 /* icon_play_status.png in Resources */ = {isa = PBXBuildFile; fileRef = D71DE9BC1D28E0B700608189 /* icon_play_status.png */; };
-		D71DE9E81D28E0B700608189 /* icon_screen_shot_action.png in Resources */ = {isa = PBXBuildFile; fileRef = D71DE9BD1D28E0B700608189 /* icon_screen_shot_action.png */; };
-		D71DE9E91D28E0B700608189 /* icon_topview_left__button_selected.png in Resources */ = {isa = PBXBuildFile; fileRef = D71DE9BE1D28E0B700608189 /* icon_topview_left__button_selected.png */; };
-		D71DE9EA1D28E0B700608189 /* icon_topview_left_button_normal.png in Resources */ = {isa = PBXBuildFile; fileRef = D71DE9BF1D28E0B700608189 /* icon_topview_left_button_normal.png */; };
-		D71DE9EB1D28E0B700608189 /* icon_topview_right_button_normal.png in Resources */ = {isa = PBXBuildFile; fileRef = D71DE9C01D28E0B700608189 /* icon_topview_right_button_normal.png */; };
-		D71DE9EC1D28E0B700608189 /* icon_topview_right_button_selected.png in Resources */ = {isa = PBXBuildFile; fileRef = D71DE9C11D28E0B700608189 /* icon_topview_right_button_selected.png */; };
-		D71DE9ED1D28E0B700608189 /* loading.png in Resources */ = {isa = PBXBuildFile; fileRef = D71DE9C21D28E0B700608189 /* loading.png */; };
-		D71DE9EE1D28E0B700608189 /* UCloudBrightnessView.m in Sources */ = {isa = PBXBuildFile; fileRef = D71DE9C41D28E0B700608189 /* UCloudBrightnessView.m */; };
-		D71DE9EF1D28E0B700608189 /* UCloudLoadingView.m in Sources */ = {isa = PBXBuildFile; fileRef = D71DE9C81D28E0B700608189 /* UCloudLoadingView.m */; };
-		D71DE9F01D28E0B700608189 /* UCloudMediaViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D71DE9CA1D28E0B700608189 /* UCloudMediaViewController.m */; };
-		D71DE9F11D28E0B700608189 /* UCloudMediaViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = D71DE9CB1D28E0B700608189 /* UCloudMediaViewController.xib */; };
-		D71DE9F21D28E0B700608189 /* UCloudProgressView.m in Sources */ = {isa = PBXBuildFile; fileRef = D71DE9CD1D28E0B700608189 /* UCloudProgressView.m */; };
 		D71DE9F41D28E0D200608189 /* libiconv.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = D71DE9F31D28E0D200608189 /* libiconv.tbd */; };
 		D71DE9F61D28E0DD00608189 /* libsqlite3.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = D71DE9F51D28E0DD00608189 /* libsqlite3.tbd */; };
 		D71DE9F81D28E0E900608189 /* libstdc++.6.0.9.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = D71DE9F71D28E0E900608189 /* libstdc++.6.0.9.tbd */; };
@@ -63,6 +26,45 @@
 		D71DEA041D28E11800608189 /* AVFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D71DEA031D28E11800608189 /* AVFoundation.framework */; };
 		D71DEA061D28E12100608189 /* CoreMedia.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D71DEA051D28E12100608189 /* CoreMedia.framework */; };
 		D71DEA081D28E12C00608189 /* VideoToolbox.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D71DEA071D28E12C00608189 /* VideoToolbox.framework */; };
+		D7AF77F21D28E48E00CA4F5F /* UcCameraView.m in Sources */ = {isa = PBXBuildFile; fileRef = D7AF77061D28E48E00CA4F5F /* UcCameraView.m */; };
+		D7AF77F31D28E48E00CA4F5F /* UcCameraView.xib in Resources */ = {isa = PBXBuildFile; fileRef = D7AF77071D28E48E00CA4F5F /* UcCameraView.xib */; };
+		D7AF77F41D28E48E00CA4F5F /* libUCloudMediaPlayer.a in Frameworks */ = {isa = PBXBuildFile; fileRef = D7AF770A1D28E48E00CA4F5F /* libUCloudMediaPlayer.a */; };
+		D7AF77F51D28E48E00CA4F5F /* FilterManager.m in Sources */ = {isa = PBXBuildFile; fileRef = D7AF77BE1D28E48E00CA4F5F /* FilterManager.m */; };
+		D7AF77F61D28E48E00CA4F5F /* libUCloudMediaRecorder.a in Frameworks */ = {isa = PBXBuildFile; fileRef = D7AF77BF1D28E48E00CA4F5F /* libUCloudMediaRecorder.a */; };
+		D7AF77F71D28E48E00CA4F5F /* UIWindow+YzdHUD.m in Sources */ = {isa = PBXBuildFile; fileRef = D7AF77C41D28E48E00CA4F5F /* UIWindow+YzdHUD.m */; };
+		D7AF77F81D28E48E00CA4F5F /* YzdHUDBackgroundView.m in Sources */ = {isa = PBXBuildFile; fileRef = D7AF77C61D28E48E00CA4F5F /* YzdHUDBackgroundView.m */; };
+		D7AF77F91D28E48E00CA4F5F /* YzdHUDImageView.m in Sources */ = {isa = PBXBuildFile; fileRef = D7AF77C81D28E48E00CA4F5F /* YzdHUDImageView.m */; };
+		D7AF77FA1D28E48E00CA4F5F /* YzdHUDIndicator.m in Sources */ = {isa = PBXBuildFile; fileRef = D7AF77CA1D28E48E00CA4F5F /* YzdHUDIndicator.m */; };
+		D7AF77FB1D28E48E00CA4F5F /* YzdHUDLabel.m in Sources */ = {isa = PBXBuildFile; fileRef = D7AF77CC1D28E48E00CA4F5F /* YzdHUDLabel.m */; };
+		D7AF77FC1D28E48E00CA4F5F /* PlayerManager.m in Sources */ = {isa = PBXBuildFile; fileRef = D7AF77CE1D28E48E00CA4F5F /* PlayerManager.m */; };
+		D7AF77FD1D28E48E00CA4F5F /* bg_screen_shot_complete.png in Resources */ = {isa = PBXBuildFile; fileRef = D7AF77D01D28E48E00CA4F5F /* bg_screen_shot_complete.png */; };
+		D7AF77FE1D28E48E00CA4F5F /* bg_screen_shot_complete@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = D7AF77D11D28E48E00CA4F5F /* bg_screen_shot_complete@2x.png */; };
+		D7AF77FF1D28E48E00CA4F5F /* bg_screen_shot_complete@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = D7AF77D21D28E48E00CA4F5F /* bg_screen_shot_complete@3x.png */; };
+		D7AF78001D28E48E00CA4F5F /* bg_screen_shot_frame.png in Resources */ = {isa = PBXBuildFile; fileRef = D7AF77D31D28E48E00CA4F5F /* bg_screen_shot_frame.png */; };
+		D7AF78011D28E48E00CA4F5F /* bright_point.png in Resources */ = {isa = PBXBuildFile; fileRef = D7AF77D41D28E48E00CA4F5F /* bright_point.png */; };
+		D7AF78021D28E48E00CA4F5F /* brightness_bgiphone.png in Resources */ = {isa = PBXBuildFile; fileRef = D7AF77D51D28E48E00CA4F5F /* brightness_bgiphone.png */; };
+		D7AF78031D28E48E00CA4F5F /* brightness_bg~iphone@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = D7AF77D61D28E48E00CA4F5F /* brightness_bg~iphone@3x.png */; };
+		D7AF78041D28E48E00CA4F5F /* danmu.png in Resources */ = {isa = PBXBuildFile; fileRef = D7AF77D71D28E48E00CA4F5F /* danmu.png */; };
+		D7AF78051D28E48E00CA4F5F /* danmu_h.png in Resources */ = {isa = PBXBuildFile; fileRef = D7AF77D81D28E48E00CA4F5F /* danmu_h.png */; };
+		D7AF78061D28E48E00CA4F5F /* ic_screen_shot.png in Resources */ = {isa = PBXBuildFile; fileRef = D7AF77D91D28E48E00CA4F5F /* ic_screen_shot.png */; };
+		D7AF78071D28E48E00CA4F5F /* icon_bottomview_brightness_button_normal.png in Resources */ = {isa = PBXBuildFile; fileRef = D7AF77DA1D28E48E00CA4F5F /* icon_bottomview_brightness_button_normal.png */; };
+		D7AF78081D28E48E00CA4F5F /* icon_bottomview_brightness_button_selected.png in Resources */ = {isa = PBXBuildFile; fileRef = D7AF77DB1D28E48E00CA4F5F /* icon_bottomview_brightness_button_selected.png */; };
+		D7AF78091D28E48E00CA4F5F /* icon_bottomview_pause_button_normal.png in Resources */ = {isa = PBXBuildFile; fileRef = D7AF77DC1D28E48E00CA4F5F /* icon_bottomview_pause_button_normal.png */; };
+		D7AF780A1D28E48E00CA4F5F /* icon_bottomview_play_button_normal.png in Resources */ = {isa = PBXBuildFile; fileRef = D7AF77DD1D28E48E00CA4F5F /* icon_bottomview_play_button_normal.png */; };
+		D7AF780B1D28E48E00CA4F5F /* icon_bottomview_volume_button_normal.png in Resources */ = {isa = PBXBuildFile; fileRef = D7AF77DE1D28E48E00CA4F5F /* icon_bottomview_volume_button_normal.png */; };
+		D7AF780C1D28E48E00CA4F5F /* icon_bottomview_volume_button_selected.png in Resources */ = {isa = PBXBuildFile; fileRef = D7AF77DF1D28E48E00CA4F5F /* icon_bottomview_volume_button_selected.png */; };
+		D7AF780D1D28E48E00CA4F5F /* icon_play_status.png in Resources */ = {isa = PBXBuildFile; fileRef = D7AF77E01D28E48E00CA4F5F /* icon_play_status.png */; };
+		D7AF780E1D28E48E00CA4F5F /* icon_screen_shot_action.png in Resources */ = {isa = PBXBuildFile; fileRef = D7AF77E11D28E48E00CA4F5F /* icon_screen_shot_action.png */; };
+		D7AF780F1D28E48E00CA4F5F /* icon_topview_left__button_selected.png in Resources */ = {isa = PBXBuildFile; fileRef = D7AF77E21D28E48E00CA4F5F /* icon_topview_left__button_selected.png */; };
+		D7AF78101D28E48E00CA4F5F /* icon_topview_left_button_normal.png in Resources */ = {isa = PBXBuildFile; fileRef = D7AF77E31D28E48E00CA4F5F /* icon_topview_left_button_normal.png */; };
+		D7AF78111D28E48E00CA4F5F /* icon_topview_right_button_normal.png in Resources */ = {isa = PBXBuildFile; fileRef = D7AF77E41D28E48E00CA4F5F /* icon_topview_right_button_normal.png */; };
+		D7AF78121D28E48E00CA4F5F /* icon_topview_right_button_selected.png in Resources */ = {isa = PBXBuildFile; fileRef = D7AF77E51D28E48E00CA4F5F /* icon_topview_right_button_selected.png */; };
+		D7AF78131D28E48E00CA4F5F /* loading.png in Resources */ = {isa = PBXBuildFile; fileRef = D7AF77E61D28E48E00CA4F5F /* loading.png */; };
+		D7AF78141D28E48E00CA4F5F /* UCloudBrightnessView.m in Sources */ = {isa = PBXBuildFile; fileRef = D7AF77E81D28E48E00CA4F5F /* UCloudBrightnessView.m */; };
+		D7AF78151D28E48E00CA4F5F /* UCloudLoadingView.m in Sources */ = {isa = PBXBuildFile; fileRef = D7AF77EC1D28E48E00CA4F5F /* UCloudLoadingView.m */; };
+		D7AF78161D28E48E00CA4F5F /* UCloudMediaViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D7AF77EE1D28E48E00CA4F5F /* UCloudMediaViewController.m */; };
+		D7AF78171D28E48E00CA4F5F /* UCloudMediaViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = D7AF77EF1D28E48E00CA4F5F /* UCloudMediaViewController.xib */; };
+		D7AF78181D28E48E00CA4F5F /* UCloudProgressView.m in Sources */ = {isa = PBXBuildFile; fileRef = D7AF77F11D28E48E00CA4F5F /* UCloudProgressView.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -87,8 +89,8 @@
 		D71DE8B01D28DFE100608189 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		D71DE8B21D28DFE100608189 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		D71DE8B31D28DFE100608189 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		D71DE8B51D28DFE100608189 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
-		D71DE8B61D28DFE100608189 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		D71DE8B51D28DFE100608189 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = ViewController.h; path = ../ViewController.h; sourceTree = "<group>"; };
+		D71DE8B61D28DFE100608189 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = ViewController.m; path = ../ViewController.m; sourceTree = "<group>"; };
 		D71DE8B91D28DFE100608189 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		D71DE8BB1D28DFE100608189 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D71DE8BE1D28DFE100608189 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -99,233 +101,6 @@
 		D71DE8D01D28DFE100608189 /* AmYellowLiveUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AmYellowLiveUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D71DE8D41D28DFE100608189 /* AmYellowLiveUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AmYellowLiveUITests.m; sourceTree = "<group>"; };
 		D71DE8D61D28DFE100608189 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		D71DE8E61D28E0B600608189 /* libUCloudMediaPlayer.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = libUCloudMediaPlayer.a; sourceTree = "<group>"; };
-		D71DE8E71D28E0B600608189 /* UCloudMediaModule.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudMediaModule.h; sourceTree = "<group>"; };
-		D71DE8E81D28E0B600608189 /* UCloudMediaPlayback.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudMediaPlayback.h; sourceTree = "<group>"; };
-		D71DE8E91D28E0B600608189 /* UCloudMediaPlayer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudMediaPlayer.h; sourceTree = "<group>"; };
-		D71DE8EA1D28E0B600608189 /* UCloudPlayback.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudPlayback.h; sourceTree = "<group>"; };
-		D71DE8EC1D28E0B600608189 /* CameraServer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CameraServer.h; sourceTree = "<group>"; };
-		D71DE8EE1D28E0B600608189 /* UCloudGLProgram.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGLProgram.h; sourceTree = "<group>"; };
-		D71DE8EF1D28E0B600608189 /* UCloudGPUImage.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImage.h; sourceTree = "<group>"; };
-		D71DE8F01D28E0B600608189 /* UCloudGPUImage3x3ConvolutionFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImage3x3ConvolutionFilter.h; sourceTree = "<group>"; };
-		D71DE8F11D28E0B600608189 /* UCloudGPUImage3x3TextureSamplingFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImage3x3TextureSamplingFilter.h; sourceTree = "<group>"; };
-		D71DE8F21D28E0B600608189 /* UCloudGPUImageAdaptiveThresholdFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageAdaptiveThresholdFilter.h; sourceTree = "<group>"; };
-		D71DE8F31D28E0B600608189 /* UCloudGPUImageAddBlendFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageAddBlendFilter.h; sourceTree = "<group>"; };
-		D71DE8F41D28E0B600608189 /* UCloudGPUImageAlphaBlendFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageAlphaBlendFilter.h; sourceTree = "<group>"; };
-		D71DE8F51D28E0B600608189 /* UCloudGPUImageAmatorkaFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageAmatorkaFilter.h; sourceTree = "<group>"; };
-		D71DE8F61D28E0B600608189 /* UCloudGPUImageAverageColor.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageAverageColor.h; sourceTree = "<group>"; };
-		D71DE8F71D28E0B600608189 /* UCloudGPUImageAverageLuminanceThresholdFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageAverageLuminanceThresholdFilter.h; sourceTree = "<group>"; };
-		D71DE8F81D28E0B600608189 /* UCloudGPUImageBeautyFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageBeautyFilter.h; sourceTree = "<group>"; };
-		D71DE8F91D28E0B600608189 /* UCloudGPUImageBilateralFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageBilateralFilter.h; sourceTree = "<group>"; };
-		D71DE8FA1D28E0B600608189 /* UCloudGPUImageBoxBlurFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageBoxBlurFilter.h; sourceTree = "<group>"; };
-		D71DE8FB1D28E0B600608189 /* UCloudGPUImageBrightnessFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageBrightnessFilter.h; sourceTree = "<group>"; };
-		D71DE8FC1D28E0B600608189 /* UCloudGPUImageBuffer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageBuffer.h; sourceTree = "<group>"; };
-		D71DE8FD1D28E0B600608189 /* UCloudGPUImageBulgeDistortionFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageBulgeDistortionFilter.h; sourceTree = "<group>"; };
-		D71DE8FE1D28E0B600608189 /* UCloudGPUImageCannyEdgeDetectionFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageCannyEdgeDetectionFilter.h; sourceTree = "<group>"; };
-		D71DE8FF1D28E0B600608189 /* UCloudGPUImageCGAColorspaceFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageCGAColorspaceFilter.h; sourceTree = "<group>"; };
-		D71DE9001D28E0B600608189 /* UCloudGPUImageChromaKeyBlendFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageChromaKeyBlendFilter.h; sourceTree = "<group>"; };
-		D71DE9011D28E0B600608189 /* UCloudGPUImageChromaKeyFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageChromaKeyFilter.h; sourceTree = "<group>"; };
-		D71DE9021D28E0B600608189 /* UCloudGPUImageClosingFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageClosingFilter.h; sourceTree = "<group>"; };
-		D71DE9031D28E0B600608189 /* UCloudGPUImageColorBlendFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageColorBlendFilter.h; sourceTree = "<group>"; };
-		D71DE9041D28E0B600608189 /* UCloudGPUImageColorBurnBlendFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageColorBurnBlendFilter.h; sourceTree = "<group>"; };
-		D71DE9051D28E0B600608189 /* UCloudGPUImageColorConversion.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageColorConversion.h; sourceTree = "<group>"; };
-		D71DE9061D28E0B600608189 /* UCloudGPUImageColorDodgeBlendFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageColorDodgeBlendFilter.h; sourceTree = "<group>"; };
-		D71DE9071D28E0B600608189 /* UCloudGPUImageColorInvertFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageColorInvertFilter.h; sourceTree = "<group>"; };
-		D71DE9081D28E0B600608189 /* UCloudGPUImageColorLocalBinaryPatternFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageColorLocalBinaryPatternFilter.h; sourceTree = "<group>"; };
-		D71DE9091D28E0B600608189 /* UCloudGPUImageColorMatrixFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageColorMatrixFilter.h; sourceTree = "<group>"; };
-		D71DE90A1D28E0B600608189 /* UCloudGPUImageColorPackingFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageColorPackingFilter.h; sourceTree = "<group>"; };
-		D71DE90B1D28E0B600608189 /* UCloudGPUImageColourFASTFeatureDetector.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageColourFASTFeatureDetector.h; sourceTree = "<group>"; };
-		D71DE90C1D28E0B600608189 /* UCloudGPUImageColourFASTSamplingOperation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageColourFASTSamplingOperation.h; sourceTree = "<group>"; };
-		D71DE90D1D28E0B600608189 /* UCloudGPUImageContext.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageContext.h; sourceTree = "<group>"; };
-		D71DE90E1D28E0B600608189 /* UCloudGPUImageContrastFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageContrastFilter.h; sourceTree = "<group>"; };
-		D71DE90F1D28E0B600608189 /* UCloudGPUImageCropFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageCropFilter.h; sourceTree = "<group>"; };
-		D71DE9101D28E0B600608189 /* UCloudGPUImageCrosshairGenerator.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageCrosshairGenerator.h; sourceTree = "<group>"; };
-		D71DE9111D28E0B600608189 /* UCloudGPUImageCrosshatchFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageCrosshatchFilter.h; sourceTree = "<group>"; };
-		D71DE9121D28E0B600608189 /* UCloudGPUImageDarkenBlendFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageDarkenBlendFilter.h; sourceTree = "<group>"; };
-		D71DE9131D28E0B600608189 /* UCloudGPUImageDifferenceBlendFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageDifferenceBlendFilter.h; sourceTree = "<group>"; };
-		D71DE9141D28E0B600608189 /* UCloudGPUImageDilationFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageDilationFilter.h; sourceTree = "<group>"; };
-		D71DE9151D28E0B600608189 /* UCloudGPUImageDirectionalNonMaximumSuppressionFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageDirectionalNonMaximumSuppressionFilter.h; sourceTree = "<group>"; };
-		D71DE9161D28E0B600608189 /* UCloudGPUImageDirectionalSobelEdgeDetectionFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageDirectionalSobelEdgeDetectionFilter.h; sourceTree = "<group>"; };
-		D71DE9171D28E0B600608189 /* UCloudGPUImageDissolveBlendFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageDissolveBlendFilter.h; sourceTree = "<group>"; };
-		D71DE9181D28E0B600608189 /* UCloudGPUImageDivideBlendFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageDivideBlendFilter.h; sourceTree = "<group>"; };
-		D71DE9191D28E0B600608189 /* UCloudGPUImageEmbossFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageEmbossFilter.h; sourceTree = "<group>"; };
-		D71DE91A1D28E0B600608189 /* UCloudGPUImageErosionFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageErosionFilter.h; sourceTree = "<group>"; };
-		D71DE91B1D28E0B600608189 /* UCloudGPUImageExclusionBlendFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageExclusionBlendFilter.h; sourceTree = "<group>"; };
-		D71DE91C1D28E0B700608189 /* UCloudGPUImageExposureFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageExposureFilter.h; sourceTree = "<group>"; };
-		D71DE91D1D28E0B700608189 /* UCloudGPUImageFalseColorFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageFalseColorFilter.h; sourceTree = "<group>"; };
-		D71DE91E1D28E0B700608189 /* UCloudGPUImageFASTCornerDetectionFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageFASTCornerDetectionFilter.h; sourceTree = "<group>"; };
-		D71DE91F1D28E0B700608189 /* UCloudGPUImageFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageFilter.h; sourceTree = "<group>"; };
-		D71DE9201D28E0B700608189 /* UCloudGPUImageFilterGroup.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageFilterGroup.h; sourceTree = "<group>"; };
-		D71DE9211D28E0B700608189 /* UCloudGPUImageFilterPipeline.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageFilterPipeline.h; sourceTree = "<group>"; };
-		D71DE9221D28E0B700608189 /* UCloudGPUImageFourInputFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageFourInputFilter.h; sourceTree = "<group>"; };
-		D71DE9231D28E0B700608189 /* UCloudGPUImageFramebuffer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageFramebuffer.h; sourceTree = "<group>"; };
-		D71DE9241D28E0B700608189 /* UCloudGPUImageFramebufferCache.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageFramebufferCache.h; sourceTree = "<group>"; };
-		D71DE9251D28E0B700608189 /* UCloudGPUImageGammaFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageGammaFilter.h; sourceTree = "<group>"; };
-		D71DE9261D28E0B700608189 /* UCloudGPUImageGaussianBlurFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageGaussianBlurFilter.h; sourceTree = "<group>"; };
-		D71DE9271D28E0B700608189 /* UCloudGPUImageGaussianBlurPositionFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageGaussianBlurPositionFilter.h; sourceTree = "<group>"; };
-		D71DE9281D28E0B700608189 /* UCloudGPUImageGaussianSelectiveBlurFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageGaussianSelectiveBlurFilter.h; sourceTree = "<group>"; };
-		D71DE9291D28E0B700608189 /* UCloudGPUImageGlassSphereFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageGlassSphereFilter.h; sourceTree = "<group>"; };
-		D71DE92A1D28E0B700608189 /* UCloudGPUImageGrayscaleFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageGrayscaleFilter.h; sourceTree = "<group>"; };
-		D71DE92B1D28E0B700608189 /* UCloudGPUImageHalftoneFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageHalftoneFilter.h; sourceTree = "<group>"; };
-		D71DE92C1D28E0B700608189 /* UCloudGPUImageHardLightBlendFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageHardLightBlendFilter.h; sourceTree = "<group>"; };
-		D71DE92D1D28E0B700608189 /* UCloudGPUImageHarrisCornerDetectionFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageHarrisCornerDetectionFilter.h; sourceTree = "<group>"; };
-		D71DE92E1D28E0B700608189 /* UCloudGPUImageHazeFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageHazeFilter.h; sourceTree = "<group>"; };
-		D71DE92F1D28E0B700608189 /* UCloudGPUImageHighlightShadowFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageHighlightShadowFilter.h; sourceTree = "<group>"; };
-		D71DE9301D28E0B700608189 /* UCloudGPUImageHighPassFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageHighPassFilter.h; sourceTree = "<group>"; };
-		D71DE9311D28E0B700608189 /* UCloudGPUImageHistogramEqualizationFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageHistogramEqualizationFilter.h; sourceTree = "<group>"; };
-		D71DE9321D28E0B700608189 /* UCloudGPUImageHistogramFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageHistogramFilter.h; sourceTree = "<group>"; };
-		D71DE9331D28E0B700608189 /* UCloudGPUImageHistogramGenerator.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageHistogramGenerator.h; sourceTree = "<group>"; };
-		D71DE9341D28E0B700608189 /* UCloudGPUImageHoughTransformLineDetector.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageHoughTransformLineDetector.h; sourceTree = "<group>"; };
-		D71DE9351D28E0B700608189 /* UCloudGPUImageHSBFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageHSBFilter.h; sourceTree = "<group>"; };
-		D71DE9361D28E0B700608189 /* UCloudGPUImageHueBlendFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageHueBlendFilter.h; sourceTree = "<group>"; };
-		D71DE9371D28E0B700608189 /* UCloudGPUImageHueFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageHueFilter.h; sourceTree = "<group>"; };
-		D71DE9381D28E0B700608189 /* UCloudGPUImageiOSBlurFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageiOSBlurFilter.h; sourceTree = "<group>"; };
-		D71DE9391D28E0B700608189 /* UCloudGPUImageJFAVoronoiFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageJFAVoronoiFilter.h; sourceTree = "<group>"; };
-		D71DE93A1D28E0B700608189 /* UCloudGPUImageKuwaharaFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageKuwaharaFilter.h; sourceTree = "<group>"; };
-		D71DE93B1D28E0B700608189 /* UCloudGPUImageKuwaharaRadius3Filter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageKuwaharaRadius3Filter.h; sourceTree = "<group>"; };
-		D71DE93C1D28E0B700608189 /* UCloudGPUImageLanczosResamplingFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageLanczosResamplingFilter.h; sourceTree = "<group>"; };
-		D71DE93D1D28E0B700608189 /* UCloudGPUImageLaplacianFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageLaplacianFilter.h; sourceTree = "<group>"; };
-		D71DE93E1D28E0B700608189 /* UCloudGPUImageLevelsFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageLevelsFilter.h; sourceTree = "<group>"; };
-		D71DE93F1D28E0B700608189 /* UCloudGPUImageLightenBlendFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageLightenBlendFilter.h; sourceTree = "<group>"; };
-		D71DE9401D28E0B700608189 /* UCloudGPUImageLinearBurnBlendFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageLinearBurnBlendFilter.h; sourceTree = "<group>"; };
-		D71DE9411D28E0B700608189 /* UCloudGPUImageLineGenerator.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageLineGenerator.h; sourceTree = "<group>"; };
-		D71DE9421D28E0B700608189 /* UCloudGPUImageLocalBinaryPatternFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageLocalBinaryPatternFilter.h; sourceTree = "<group>"; };
-		D71DE9431D28E0B700608189 /* UCloudGPUImageLookupFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageLookupFilter.h; sourceTree = "<group>"; };
-		D71DE9441D28E0B700608189 /* UCloudGPUImageLowPassFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageLowPassFilter.h; sourceTree = "<group>"; };
-		D71DE9451D28E0B700608189 /* UCloudGPUImageLuminanceRangeFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageLuminanceRangeFilter.h; sourceTree = "<group>"; };
-		D71DE9461D28E0B700608189 /* UCloudGPUImageLuminanceThresholdFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageLuminanceThresholdFilter.h; sourceTree = "<group>"; };
-		D71DE9471D28E0B700608189 /* UCloudGPUImageLuminosity.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageLuminosity.h; sourceTree = "<group>"; };
-		D71DE9481D28E0B700608189 /* UCloudGPUImageLuminosityBlendFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageLuminosityBlendFilter.h; sourceTree = "<group>"; };
-		D71DE9491D28E0B700608189 /* UCloudGPUImageMaskFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageMaskFilter.h; sourceTree = "<group>"; };
-		D71DE94A1D28E0B700608189 /* UCloudGPUImageMedianFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageMedianFilter.h; sourceTree = "<group>"; };
-		D71DE94B1D28E0B700608189 /* UCloudGPUImageMissEtikateFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageMissEtikateFilter.h; sourceTree = "<group>"; };
-		D71DE94C1D28E0B700608189 /* UCloudGPUImageMonochromeFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageMonochromeFilter.h; sourceTree = "<group>"; };
-		D71DE94D1D28E0B700608189 /* UCloudGPUImageMosaicFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageMosaicFilter.h; sourceTree = "<group>"; };
-		D71DE94E1D28E0B700608189 /* UCloudGPUImageMotionBlurFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageMotionBlurFilter.h; sourceTree = "<group>"; };
-		D71DE94F1D28E0B700608189 /* UCloudGPUImageMotionDetector.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageMotionDetector.h; sourceTree = "<group>"; };
-		D71DE9501D28E0B700608189 /* UCloudGPUImageMovie.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageMovie.h; sourceTree = "<group>"; };
-		D71DE9511D28E0B700608189 /* UCloudGPUImageMovieComposition.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageMovieComposition.h; sourceTree = "<group>"; };
-		D71DE9521D28E0B700608189 /* UCloudGPUImageMovieWriter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageMovieWriter.h; sourceTree = "<group>"; };
-		D71DE9531D28E0B700608189 /* UCloudGPUImageMultiplyBlendFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageMultiplyBlendFilter.h; sourceTree = "<group>"; };
-		D71DE9541D28E0B700608189 /* UCloudGPUImageNobleCornerDetectionFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageNobleCornerDetectionFilter.h; sourceTree = "<group>"; };
-		D71DE9551D28E0B700608189 /* UCloudGPUImageNonMaximumSuppressionFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageNonMaximumSuppressionFilter.h; sourceTree = "<group>"; };
-		D71DE9561D28E0B700608189 /* UCloudGPUImageNormalBlendFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageNormalBlendFilter.h; sourceTree = "<group>"; };
-		D71DE9571D28E0B700608189 /* UCloudGPUImageOpacityFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageOpacityFilter.h; sourceTree = "<group>"; };
-		D71DE9581D28E0B700608189 /* UCloudGPUImageOpeningFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageOpeningFilter.h; sourceTree = "<group>"; };
-		D71DE9591D28E0B700608189 /* UCloudGPUImageOutput.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageOutput.h; sourceTree = "<group>"; };
-		D71DE95A1D28E0B700608189 /* UCloudGPUImageOverlayBlendFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageOverlayBlendFilter.h; sourceTree = "<group>"; };
-		D71DE95B1D28E0B700608189 /* UCloudGPUImageParallelCoordinateLineTransformFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageParallelCoordinateLineTransformFilter.h; sourceTree = "<group>"; };
-		D71DE95C1D28E0B700608189 /* UCloudGPUImagePerlinNoiseFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImagePerlinNoiseFilter.h; sourceTree = "<group>"; };
-		D71DE95D1D28E0B700608189 /* UCloudGPUImagePicture+TextureSubimage.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UCloudGPUImagePicture+TextureSubimage.h"; sourceTree = "<group>"; };
-		D71DE95E1D28E0B700608189 /* UCloudGPUImagePicture.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImagePicture.h; sourceTree = "<group>"; };
-		D71DE95F1D28E0B700608189 /* UCloudGPUImagePinchDistortionFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImagePinchDistortionFilter.h; sourceTree = "<group>"; };
-		D71DE9601D28E0B700608189 /* UCloudGPUImagePixellateFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImagePixellateFilter.h; sourceTree = "<group>"; };
-		D71DE9611D28E0B700608189 /* UCloudGPUImagePixellatePositionFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImagePixellatePositionFilter.h; sourceTree = "<group>"; };
-		D71DE9621D28E0B700608189 /* UCloudGPUImagePoissonBlendFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImagePoissonBlendFilter.h; sourceTree = "<group>"; };
-		D71DE9631D28E0B700608189 /* UCloudGPUImagePolarPixellateFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImagePolarPixellateFilter.h; sourceTree = "<group>"; };
-		D71DE9641D28E0B700608189 /* UCloudGPUImagePolkaDotFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImagePolkaDotFilter.h; sourceTree = "<group>"; };
-		D71DE9651D28E0B700608189 /* UCloudGPUImagePosterizeFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImagePosterizeFilter.h; sourceTree = "<group>"; };
-		D71DE9661D28E0B700608189 /* UCloudGPUImagePrewittEdgeDetectionFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImagePrewittEdgeDetectionFilter.h; sourceTree = "<group>"; };
-		D71DE9671D28E0B700608189 /* UCloudGPUImageRawDataInput.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageRawDataInput.h; sourceTree = "<group>"; };
-		D71DE9681D28E0B700608189 /* UCloudGPUImageRawDataOutput.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageRawDataOutput.h; sourceTree = "<group>"; };
-		D71DE9691D28E0B700608189 /* UCloudGPUImageRGBClosingFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageRGBClosingFilter.h; sourceTree = "<group>"; };
-		D71DE96A1D28E0B700608189 /* UCloudGPUImageRGBDilationFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageRGBDilationFilter.h; sourceTree = "<group>"; };
-		D71DE96B1D28E0B700608189 /* UCloudGPUImageRGBErosionFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageRGBErosionFilter.h; sourceTree = "<group>"; };
-		D71DE96C1D28E0B700608189 /* UCloudGPUImageRGBFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageRGBFilter.h; sourceTree = "<group>"; };
-		D71DE96D1D28E0B700608189 /* UCloudGPUImageRGBOpeningFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageRGBOpeningFilter.h; sourceTree = "<group>"; };
-		D71DE96E1D28E0B700608189 /* UCloudGPUImageSaturationBlendFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageSaturationBlendFilter.h; sourceTree = "<group>"; };
-		D71DE96F1D28E0B700608189 /* UCloudGPUImageSaturationFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageSaturationFilter.h; sourceTree = "<group>"; };
-		D71DE9701D28E0B700608189 /* UCloudGPUImageScreenBlendFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageScreenBlendFilter.h; sourceTree = "<group>"; };
-		D71DE9711D28E0B700608189 /* UCloudGPUImageSepiaFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageSepiaFilter.h; sourceTree = "<group>"; };
-		D71DE9721D28E0B700608189 /* UCloudGPUImageSharpenFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageSharpenFilter.h; sourceTree = "<group>"; };
-		D71DE9731D28E0B700608189 /* UCloudGPUImageShiTomasiFeatureDetectionFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageShiTomasiFeatureDetectionFilter.h; sourceTree = "<group>"; };
-		D71DE9741D28E0B700608189 /* UCloudGPUImageSingleComponentGaussianBlurFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageSingleComponentGaussianBlurFilter.h; sourceTree = "<group>"; };
-		D71DE9751D28E0B700608189 /* UCloudGPUImageSketchFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageSketchFilter.h; sourceTree = "<group>"; };
-		D71DE9761D28E0B700608189 /* UCloudGPUImageSmoothToonFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageSmoothToonFilter.h; sourceTree = "<group>"; };
-		D71DE9771D28E0B700608189 /* UCloudGPUImageSobelEdgeDetectionFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageSobelEdgeDetectionFilter.h; sourceTree = "<group>"; };
-		D71DE9781D28E0B700608189 /* UCloudGPUImageSoftEleganceFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageSoftEleganceFilter.h; sourceTree = "<group>"; };
-		D71DE9791D28E0B700608189 /* UCloudGPUImageSoftLightBlendFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageSoftLightBlendFilter.h; sourceTree = "<group>"; };
-		D71DE97A1D28E0B700608189 /* UCloudGPUImageSolidColorGenerator.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageSolidColorGenerator.h; sourceTree = "<group>"; };
-		D71DE97B1D28E0B700608189 /* UCloudGPUImageSourceOverBlendFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageSourceOverBlendFilter.h; sourceTree = "<group>"; };
-		D71DE97C1D28E0B700608189 /* UCloudGPUImageSphereRefractionFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageSphereRefractionFilter.h; sourceTree = "<group>"; };
-		D71DE97D1D28E0B700608189 /* UCloudGPUImageStillCamera.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageStillCamera.h; sourceTree = "<group>"; };
-		D71DE97E1D28E0B700608189 /* UCloudGPUImageStretchDistortionFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageStretchDistortionFilter.h; sourceTree = "<group>"; };
-		D71DE97F1D28E0B700608189 /* UCloudGPUImageSubtractBlendFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageSubtractBlendFilter.h; sourceTree = "<group>"; };
-		D71DE9801D28E0B700608189 /* UCloudGPUImageSwirlFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageSwirlFilter.h; sourceTree = "<group>"; };
-		D71DE9811D28E0B700608189 /* UCloudGPUImageTextureInput.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageTextureInput.h; sourceTree = "<group>"; };
-		D71DE9821D28E0B700608189 /* UCloudGPUImageTextureOutput.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageTextureOutput.h; sourceTree = "<group>"; };
-		D71DE9831D28E0B700608189 /* UCloudGPUImageThreeInputFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageThreeInputFilter.h; sourceTree = "<group>"; };
-		D71DE9841D28E0B700608189 /* UCloudGPUImageThresholdEdgeDetectionFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageThresholdEdgeDetectionFilter.h; sourceTree = "<group>"; };
-		D71DE9851D28E0B700608189 /* UCloudGPUImageThresholdedNonMaximumSuppressionFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageThresholdedNonMaximumSuppressionFilter.h; sourceTree = "<group>"; };
-		D71DE9861D28E0B700608189 /* UCloudGPUImageThresholdSketchFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageThresholdSketchFilter.h; sourceTree = "<group>"; };
-		D71DE9871D28E0B700608189 /* UCloudGPUImageTiltShiftFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageTiltShiftFilter.h; sourceTree = "<group>"; };
-		D71DE9881D28E0B700608189 /* UCloudGPUImageToneCurveFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageToneCurveFilter.h; sourceTree = "<group>"; };
-		D71DE9891D28E0B700608189 /* UCloudGPUImageToonFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageToonFilter.h; sourceTree = "<group>"; };
-		D71DE98A1D28E0B700608189 /* UCloudGPUImageTransformFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageTransformFilter.h; sourceTree = "<group>"; };
-		D71DE98B1D28E0B700608189 /* UCloudGPUImageTwoInputCrossTextureSamplingFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageTwoInputCrossTextureSamplingFilter.h; sourceTree = "<group>"; };
-		D71DE98C1D28E0B700608189 /* UCloudGPUImageTwoInputFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageTwoInputFilter.h; sourceTree = "<group>"; };
-		D71DE98D1D28E0B700608189 /* UCloudGPUImageTwoPassFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageTwoPassFilter.h; sourceTree = "<group>"; };
-		D71DE98E1D28E0B700608189 /* UCloudGPUImageTwoPassTextureSamplingFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageTwoPassTextureSamplingFilter.h; sourceTree = "<group>"; };
-		D71DE98F1D28E0B700608189 /* UCloudGPUImageUIElement.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageUIElement.h; sourceTree = "<group>"; };
-		D71DE9901D28E0B700608189 /* UCloudGPUImageUnsharpMaskFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageUnsharpMaskFilter.h; sourceTree = "<group>"; };
-		D71DE9911D28E0B700608189 /* UCloudGPUImageVideoCamera.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageVideoCamera.h; sourceTree = "<group>"; };
-		D71DE9921D28E0B700608189 /* UCloudGPUImageView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageView.h; sourceTree = "<group>"; };
-		D71DE9931D28E0B700608189 /* UCloudGPUImageVignetteFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageVignetteFilter.h; sourceTree = "<group>"; };
-		D71DE9941D28E0B700608189 /* UCloudGPUImageVoronoiConsumerFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageVoronoiConsumerFilter.h; sourceTree = "<group>"; };
-		D71DE9951D28E0B700608189 /* UCloudGPUImageWeakPixelInclusionFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageWeakPixelInclusionFilter.h; sourceTree = "<group>"; };
-		D71DE9961D28E0B700608189 /* UCloudGPUImageWhiteBalanceFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageWhiteBalanceFilter.h; sourceTree = "<group>"; };
-		D71DE9971D28E0B700608189 /* UCloudGPUImageXYDerivativeFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageXYDerivativeFilter.h; sourceTree = "<group>"; };
-		D71DE9981D28E0B700608189 /* UCloudGPUImageZoomBlurFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageZoomBlurFilter.h; sourceTree = "<group>"; };
-		D71DE9991D28E0B700608189 /* FilterManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FilterManager.h; sourceTree = "<group>"; };
-		D71DE99A1D28E0B700608189 /* FilterManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FilterManager.m; sourceTree = "<group>"; };
-		D71DE99B1D28E0B700608189 /* libUCloudMediaRecorder.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = libUCloudMediaRecorder.a; sourceTree = "<group>"; };
-		D71DE99C1D28E0B700608189 /* NSString+UCloudCameraCode.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSString+UCloudCameraCode.h"; sourceTree = "<group>"; };
-		D71DE99F1D28E0B700608189 /* UIWindow+YzdHUD.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIWindow+YzdHUD.h"; sourceTree = "<group>"; };
-		D71DE9A01D28E0B700608189 /* UIWindow+YzdHUD.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIWindow+YzdHUD.m"; sourceTree = "<group>"; };
-		D71DE9A11D28E0B700608189 /* YzdHUDBackgroundView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YzdHUDBackgroundView.h; sourceTree = "<group>"; };
-		D71DE9A21D28E0B700608189 /* YzdHUDBackgroundView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YzdHUDBackgroundView.m; sourceTree = "<group>"; };
-		D71DE9A31D28E0B700608189 /* YzdHUDImageView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YzdHUDImageView.h; sourceTree = "<group>"; };
-		D71DE9A41D28E0B700608189 /* YzdHUDImageView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YzdHUDImageView.m; sourceTree = "<group>"; };
-		D71DE9A51D28E0B700608189 /* YzdHUDIndicator.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YzdHUDIndicator.h; sourceTree = "<group>"; };
-		D71DE9A61D28E0B700608189 /* YzdHUDIndicator.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YzdHUDIndicator.m; sourceTree = "<group>"; };
-		D71DE9A71D28E0B700608189 /* YzdHUDLabel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YzdHUDLabel.h; sourceTree = "<group>"; };
-		D71DE9A81D28E0B700608189 /* YzdHUDLabel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YzdHUDLabel.m; sourceTree = "<group>"; };
-		D71DE9A91D28E0B700608189 /* PlayerManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PlayerManager.h; sourceTree = "<group>"; };
-		D71DE9AA1D28E0B700608189 /* PlayerManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PlayerManager.m; sourceTree = "<group>"; };
-		D71DE9AC1D28E0B700608189 /* bg_screen_shot_complete.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bg_screen_shot_complete.png; sourceTree = "<group>"; };
-		D71DE9AD1D28E0B700608189 /* bg_screen_shot_complete@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "bg_screen_shot_complete@2x.png"; sourceTree = "<group>"; };
-		D71DE9AE1D28E0B700608189 /* bg_screen_shot_complete@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "bg_screen_shot_complete@3x.png"; sourceTree = "<group>"; };
-		D71DE9AF1D28E0B700608189 /* bg_screen_shot_frame.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bg_screen_shot_frame.png; sourceTree = "<group>"; };
-		D71DE9B01D28E0B700608189 /* bright_point.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bright_point.png; sourceTree = "<group>"; };
-		D71DE9B11D28E0B700608189 /* brightness_bgiphone.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = brightness_bgiphone.png; sourceTree = "<group>"; };
-		D71DE9B21D28E0B700608189 /* brightness_bg~iphone@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "brightness_bg~iphone@3x.png"; sourceTree = "<group>"; };
-		D71DE9B31D28E0B700608189 /* danmu.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = danmu.png; sourceTree = "<group>"; };
-		D71DE9B41D28E0B700608189 /* danmu_h.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = danmu_h.png; sourceTree = "<group>"; };
-		D71DE9B51D28E0B700608189 /* ic_screen_shot.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ic_screen_shot.png; sourceTree = "<group>"; };
-		D71DE9B61D28E0B700608189 /* icon_bottomview_brightness_button_normal.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon_bottomview_brightness_button_normal.png; sourceTree = "<group>"; };
-		D71DE9B71D28E0B700608189 /* icon_bottomview_brightness_button_selected.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon_bottomview_brightness_button_selected.png; sourceTree = "<group>"; };
-		D71DE9B81D28E0B700608189 /* icon_bottomview_pause_button_normal.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon_bottomview_pause_button_normal.png; sourceTree = "<group>"; };
-		D71DE9B91D28E0B700608189 /* icon_bottomview_play_button_normal.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon_bottomview_play_button_normal.png; sourceTree = "<group>"; };
-		D71DE9BA1D28E0B700608189 /* icon_bottomview_volume_button_normal.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon_bottomview_volume_button_normal.png; sourceTree = "<group>"; };
-		D71DE9BB1D28E0B700608189 /* icon_bottomview_volume_button_selected.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon_bottomview_volume_button_selected.png; sourceTree = "<group>"; };
-		D71DE9BC1D28E0B700608189 /* icon_play_status.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon_play_status.png; sourceTree = "<group>"; };
-		D71DE9BD1D28E0B700608189 /* icon_screen_shot_action.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon_screen_shot_action.png; sourceTree = "<group>"; };
-		D71DE9BE1D28E0B700608189 /* icon_topview_left__button_selected.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon_topview_left__button_selected.png; sourceTree = "<group>"; };
-		D71DE9BF1D28E0B700608189 /* icon_topview_left_button_normal.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon_topview_left_button_normal.png; sourceTree = "<group>"; };
-		D71DE9C01D28E0B700608189 /* icon_topview_right_button_normal.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon_topview_right_button_normal.png; sourceTree = "<group>"; };
-		D71DE9C11D28E0B700608189 /* icon_topview_right_button_selected.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon_topview_right_button_selected.png; sourceTree = "<group>"; };
-		D71DE9C21D28E0B700608189 /* loading.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = loading.png; sourceTree = "<group>"; };
-		D71DE9C31D28E0B700608189 /* UCloudBrightnessView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudBrightnessView.h; sourceTree = "<group>"; };
-		D71DE9C41D28E0B700608189 /* UCloudBrightnessView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = UCloudBrightnessView.m; sourceTree = "<group>"; };
-		D71DE9C51D28E0B700608189 /* UCloudDefine.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudDefine.h; sourceTree = "<group>"; };
-		D71DE9C61D28E0B700608189 /* UCloudHeader.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudHeader.h; sourceTree = "<group>"; };
-		D71DE9C71D28E0B700608189 /* UCloudLoadingView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudLoadingView.h; sourceTree = "<group>"; };
-		D71DE9C81D28E0B700608189 /* UCloudLoadingView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = UCloudLoadingView.m; sourceTree = "<group>"; };
-		D71DE9C91D28E0B700608189 /* UCloudMediaViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudMediaViewController.h; sourceTree = "<group>"; };
-		D71DE9CA1D28E0B700608189 /* UCloudMediaViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = UCloudMediaViewController.m; sourceTree = "<group>"; };
-		D71DE9CB1D28E0B700608189 /* UCloudMediaViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = UCloudMediaViewController.xib; sourceTree = "<group>"; };
-		D71DE9CC1D28E0B700608189 /* UCloudProgressView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudProgressView.h; sourceTree = "<group>"; };
-		D71DE9CD1D28E0B700608189 /* UCloudProgressView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = UCloudProgressView.m; sourceTree = "<group>"; };
 		D71DE9F31D28E0D200608189 /* libiconv.tbd */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.text-based-dylib-definition"; name = libiconv.tbd; path = usr/lib/libiconv.tbd; sourceTree = SDKROOT; };
 		D71DE9F51D28E0DD00608189 /* libsqlite3.tbd */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.text-based-dylib-definition"; name = libsqlite3.tbd; path = usr/lib/libsqlite3.tbd; sourceTree = SDKROOT; };
 		D71DE9F71D28E0E900608189 /* libstdc++.6.0.9.tbd */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.text-based-dylib-definition"; name = "libstdc++.6.0.9.tbd"; path = "usr/lib/libstdc++.6.0.9.tbd"; sourceTree = SDKROOT; };
@@ -338,6 +113,236 @@
 		D71DEA051D28E12100608189 /* CoreMedia.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreMedia.framework; path = System/Library/Frameworks/CoreMedia.framework; sourceTree = SDKROOT; };
 		D71DEA071D28E12C00608189 /* VideoToolbox.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = VideoToolbox.framework; path = System/Library/Frameworks/VideoToolbox.framework; sourceTree = SDKROOT; };
 		D71DEA0A1D28E1A400608189 /* AmYellow-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "AmYellow-Prefix.pch"; sourceTree = "<group>"; };
+		D7AF77051D28E48E00CA4F5F /* UcCameraView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UcCameraView.h; sourceTree = "<group>"; };
+		D7AF77061D28E48E00CA4F5F /* UcCameraView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = UcCameraView.m; sourceTree = "<group>"; };
+		D7AF77071D28E48E00CA4F5F /* UcCameraView.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = UcCameraView.xib; sourceTree = "<group>"; };
+		D7AF770A1D28E48E00CA4F5F /* libUCloudMediaPlayer.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = libUCloudMediaPlayer.a; sourceTree = "<group>"; };
+		D7AF770B1D28E48E00CA4F5F /* UCloudMediaModule.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudMediaModule.h; sourceTree = "<group>"; };
+		D7AF770C1D28E48E00CA4F5F /* UCloudMediaPlayback.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudMediaPlayback.h; sourceTree = "<group>"; };
+		D7AF770D1D28E48E00CA4F5F /* UCloudMediaPlayer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudMediaPlayer.h; sourceTree = "<group>"; };
+		D7AF770E1D28E48E00CA4F5F /* UCloudPlayback.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudPlayback.h; sourceTree = "<group>"; };
+		D7AF77101D28E48E00CA4F5F /* CameraServer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CameraServer.h; sourceTree = "<group>"; };
+		D7AF77121D28E48E00CA4F5F /* UCloudGLProgram.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGLProgram.h; sourceTree = "<group>"; };
+		D7AF77131D28E48E00CA4F5F /* UCloudGPUImage.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImage.h; sourceTree = "<group>"; };
+		D7AF77141D28E48E00CA4F5F /* UCloudGPUImage3x3ConvolutionFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImage3x3ConvolutionFilter.h; sourceTree = "<group>"; };
+		D7AF77151D28E48E00CA4F5F /* UCloudGPUImage3x3TextureSamplingFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImage3x3TextureSamplingFilter.h; sourceTree = "<group>"; };
+		D7AF77161D28E48E00CA4F5F /* UCloudGPUImageAdaptiveThresholdFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageAdaptiveThresholdFilter.h; sourceTree = "<group>"; };
+		D7AF77171D28E48E00CA4F5F /* UCloudGPUImageAddBlendFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageAddBlendFilter.h; sourceTree = "<group>"; };
+		D7AF77181D28E48E00CA4F5F /* UCloudGPUImageAlphaBlendFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageAlphaBlendFilter.h; sourceTree = "<group>"; };
+		D7AF77191D28E48E00CA4F5F /* UCloudGPUImageAmatorkaFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageAmatorkaFilter.h; sourceTree = "<group>"; };
+		D7AF771A1D28E48E00CA4F5F /* UCloudGPUImageAverageColor.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageAverageColor.h; sourceTree = "<group>"; };
+		D7AF771B1D28E48E00CA4F5F /* UCloudGPUImageAverageLuminanceThresholdFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageAverageLuminanceThresholdFilter.h; sourceTree = "<group>"; };
+		D7AF771C1D28E48E00CA4F5F /* UCloudGPUImageBeautyFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageBeautyFilter.h; sourceTree = "<group>"; };
+		D7AF771D1D28E48E00CA4F5F /* UCloudGPUImageBilateralFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageBilateralFilter.h; sourceTree = "<group>"; };
+		D7AF771E1D28E48E00CA4F5F /* UCloudGPUImageBoxBlurFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageBoxBlurFilter.h; sourceTree = "<group>"; };
+		D7AF771F1D28E48E00CA4F5F /* UCloudGPUImageBrightnessFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageBrightnessFilter.h; sourceTree = "<group>"; };
+		D7AF77201D28E48E00CA4F5F /* UCloudGPUImageBuffer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageBuffer.h; sourceTree = "<group>"; };
+		D7AF77211D28E48E00CA4F5F /* UCloudGPUImageBulgeDistortionFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageBulgeDistortionFilter.h; sourceTree = "<group>"; };
+		D7AF77221D28E48E00CA4F5F /* UCloudGPUImageCannyEdgeDetectionFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageCannyEdgeDetectionFilter.h; sourceTree = "<group>"; };
+		D7AF77231D28E48E00CA4F5F /* UCloudGPUImageCGAColorspaceFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageCGAColorspaceFilter.h; sourceTree = "<group>"; };
+		D7AF77241D28E48E00CA4F5F /* UCloudGPUImageChromaKeyBlendFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageChromaKeyBlendFilter.h; sourceTree = "<group>"; };
+		D7AF77251D28E48E00CA4F5F /* UCloudGPUImageChromaKeyFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageChromaKeyFilter.h; sourceTree = "<group>"; };
+		D7AF77261D28E48E00CA4F5F /* UCloudGPUImageClosingFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageClosingFilter.h; sourceTree = "<group>"; };
+		D7AF77271D28E48E00CA4F5F /* UCloudGPUImageColorBlendFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageColorBlendFilter.h; sourceTree = "<group>"; };
+		D7AF77281D28E48E00CA4F5F /* UCloudGPUImageColorBurnBlendFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageColorBurnBlendFilter.h; sourceTree = "<group>"; };
+		D7AF77291D28E48E00CA4F5F /* UCloudGPUImageColorConversion.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageColorConversion.h; sourceTree = "<group>"; };
+		D7AF772A1D28E48E00CA4F5F /* UCloudGPUImageColorDodgeBlendFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageColorDodgeBlendFilter.h; sourceTree = "<group>"; };
+		D7AF772B1D28E48E00CA4F5F /* UCloudGPUImageColorInvertFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageColorInvertFilter.h; sourceTree = "<group>"; };
+		D7AF772C1D28E48E00CA4F5F /* UCloudGPUImageColorLocalBinaryPatternFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageColorLocalBinaryPatternFilter.h; sourceTree = "<group>"; };
+		D7AF772D1D28E48E00CA4F5F /* UCloudGPUImageColorMatrixFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageColorMatrixFilter.h; sourceTree = "<group>"; };
+		D7AF772E1D28E48E00CA4F5F /* UCloudGPUImageColorPackingFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageColorPackingFilter.h; sourceTree = "<group>"; };
+		D7AF772F1D28E48E00CA4F5F /* UCloudGPUImageColourFASTFeatureDetector.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageColourFASTFeatureDetector.h; sourceTree = "<group>"; };
+		D7AF77301D28E48E00CA4F5F /* UCloudGPUImageColourFASTSamplingOperation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageColourFASTSamplingOperation.h; sourceTree = "<group>"; };
+		D7AF77311D28E48E00CA4F5F /* UCloudGPUImageContext.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageContext.h; sourceTree = "<group>"; };
+		D7AF77321D28E48E00CA4F5F /* UCloudGPUImageContrastFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageContrastFilter.h; sourceTree = "<group>"; };
+		D7AF77331D28E48E00CA4F5F /* UCloudGPUImageCropFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageCropFilter.h; sourceTree = "<group>"; };
+		D7AF77341D28E48E00CA4F5F /* UCloudGPUImageCrosshairGenerator.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageCrosshairGenerator.h; sourceTree = "<group>"; };
+		D7AF77351D28E48E00CA4F5F /* UCloudGPUImageCrosshatchFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageCrosshatchFilter.h; sourceTree = "<group>"; };
+		D7AF77361D28E48E00CA4F5F /* UCloudGPUImageDarkenBlendFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageDarkenBlendFilter.h; sourceTree = "<group>"; };
+		D7AF77371D28E48E00CA4F5F /* UCloudGPUImageDifferenceBlendFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageDifferenceBlendFilter.h; sourceTree = "<group>"; };
+		D7AF77381D28E48E00CA4F5F /* UCloudGPUImageDilationFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageDilationFilter.h; sourceTree = "<group>"; };
+		D7AF77391D28E48E00CA4F5F /* UCloudGPUImageDirectionalNonMaximumSuppressionFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageDirectionalNonMaximumSuppressionFilter.h; sourceTree = "<group>"; };
+		D7AF773A1D28E48E00CA4F5F /* UCloudGPUImageDirectionalSobelEdgeDetectionFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageDirectionalSobelEdgeDetectionFilter.h; sourceTree = "<group>"; };
+		D7AF773B1D28E48E00CA4F5F /* UCloudGPUImageDissolveBlendFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageDissolveBlendFilter.h; sourceTree = "<group>"; };
+		D7AF773C1D28E48E00CA4F5F /* UCloudGPUImageDivideBlendFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageDivideBlendFilter.h; sourceTree = "<group>"; };
+		D7AF773D1D28E48E00CA4F5F /* UCloudGPUImageEmbossFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageEmbossFilter.h; sourceTree = "<group>"; };
+		D7AF773E1D28E48E00CA4F5F /* UCloudGPUImageErosionFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageErosionFilter.h; sourceTree = "<group>"; };
+		D7AF773F1D28E48E00CA4F5F /* UCloudGPUImageExclusionBlendFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageExclusionBlendFilter.h; sourceTree = "<group>"; };
+		D7AF77401D28E48E00CA4F5F /* UCloudGPUImageExposureFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageExposureFilter.h; sourceTree = "<group>"; };
+		D7AF77411D28E48E00CA4F5F /* UCloudGPUImageFalseColorFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageFalseColorFilter.h; sourceTree = "<group>"; };
+		D7AF77421D28E48E00CA4F5F /* UCloudGPUImageFASTCornerDetectionFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageFASTCornerDetectionFilter.h; sourceTree = "<group>"; };
+		D7AF77431D28E48E00CA4F5F /* UCloudGPUImageFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageFilter.h; sourceTree = "<group>"; };
+		D7AF77441D28E48E00CA4F5F /* UCloudGPUImageFilterGroup.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageFilterGroup.h; sourceTree = "<group>"; };
+		D7AF77451D28E48E00CA4F5F /* UCloudGPUImageFilterPipeline.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageFilterPipeline.h; sourceTree = "<group>"; };
+		D7AF77461D28E48E00CA4F5F /* UCloudGPUImageFourInputFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageFourInputFilter.h; sourceTree = "<group>"; };
+		D7AF77471D28E48E00CA4F5F /* UCloudGPUImageFramebuffer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageFramebuffer.h; sourceTree = "<group>"; };
+		D7AF77481D28E48E00CA4F5F /* UCloudGPUImageFramebufferCache.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageFramebufferCache.h; sourceTree = "<group>"; };
+		D7AF77491D28E48E00CA4F5F /* UCloudGPUImageGammaFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageGammaFilter.h; sourceTree = "<group>"; };
+		D7AF774A1D28E48E00CA4F5F /* UCloudGPUImageGaussianBlurFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageGaussianBlurFilter.h; sourceTree = "<group>"; };
+		D7AF774B1D28E48E00CA4F5F /* UCloudGPUImageGaussianBlurPositionFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageGaussianBlurPositionFilter.h; sourceTree = "<group>"; };
+		D7AF774C1D28E48E00CA4F5F /* UCloudGPUImageGaussianSelectiveBlurFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageGaussianSelectiveBlurFilter.h; sourceTree = "<group>"; };
+		D7AF774D1D28E48E00CA4F5F /* UCloudGPUImageGlassSphereFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageGlassSphereFilter.h; sourceTree = "<group>"; };
+		D7AF774E1D28E48E00CA4F5F /* UCloudGPUImageGrayscaleFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageGrayscaleFilter.h; sourceTree = "<group>"; };
+		D7AF774F1D28E48E00CA4F5F /* UCloudGPUImageHalftoneFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageHalftoneFilter.h; sourceTree = "<group>"; };
+		D7AF77501D28E48E00CA4F5F /* UCloudGPUImageHardLightBlendFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageHardLightBlendFilter.h; sourceTree = "<group>"; };
+		D7AF77511D28E48E00CA4F5F /* UCloudGPUImageHarrisCornerDetectionFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageHarrisCornerDetectionFilter.h; sourceTree = "<group>"; };
+		D7AF77521D28E48E00CA4F5F /* UCloudGPUImageHazeFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageHazeFilter.h; sourceTree = "<group>"; };
+		D7AF77531D28E48E00CA4F5F /* UCloudGPUImageHighlightShadowFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageHighlightShadowFilter.h; sourceTree = "<group>"; };
+		D7AF77541D28E48E00CA4F5F /* UCloudGPUImageHighPassFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageHighPassFilter.h; sourceTree = "<group>"; };
+		D7AF77551D28E48E00CA4F5F /* UCloudGPUImageHistogramEqualizationFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageHistogramEqualizationFilter.h; sourceTree = "<group>"; };
+		D7AF77561D28E48E00CA4F5F /* UCloudGPUImageHistogramFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageHistogramFilter.h; sourceTree = "<group>"; };
+		D7AF77571D28E48E00CA4F5F /* UCloudGPUImageHistogramGenerator.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageHistogramGenerator.h; sourceTree = "<group>"; };
+		D7AF77581D28E48E00CA4F5F /* UCloudGPUImageHoughTransformLineDetector.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageHoughTransformLineDetector.h; sourceTree = "<group>"; };
+		D7AF77591D28E48E00CA4F5F /* UCloudGPUImageHSBFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageHSBFilter.h; sourceTree = "<group>"; };
+		D7AF775A1D28E48E00CA4F5F /* UCloudGPUImageHueBlendFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageHueBlendFilter.h; sourceTree = "<group>"; };
+		D7AF775B1D28E48E00CA4F5F /* UCloudGPUImageHueFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageHueFilter.h; sourceTree = "<group>"; };
+		D7AF775C1D28E48E00CA4F5F /* UCloudGPUImageiOSBlurFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageiOSBlurFilter.h; sourceTree = "<group>"; };
+		D7AF775D1D28E48E00CA4F5F /* UCloudGPUImageJFAVoronoiFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageJFAVoronoiFilter.h; sourceTree = "<group>"; };
+		D7AF775E1D28E48E00CA4F5F /* UCloudGPUImageKuwaharaFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageKuwaharaFilter.h; sourceTree = "<group>"; };
+		D7AF775F1D28E48E00CA4F5F /* UCloudGPUImageKuwaharaRadius3Filter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageKuwaharaRadius3Filter.h; sourceTree = "<group>"; };
+		D7AF77601D28E48E00CA4F5F /* UCloudGPUImageLanczosResamplingFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageLanczosResamplingFilter.h; sourceTree = "<group>"; };
+		D7AF77611D28E48E00CA4F5F /* UCloudGPUImageLaplacianFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageLaplacianFilter.h; sourceTree = "<group>"; };
+		D7AF77621D28E48E00CA4F5F /* UCloudGPUImageLevelsFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageLevelsFilter.h; sourceTree = "<group>"; };
+		D7AF77631D28E48E00CA4F5F /* UCloudGPUImageLightenBlendFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageLightenBlendFilter.h; sourceTree = "<group>"; };
+		D7AF77641D28E48E00CA4F5F /* UCloudGPUImageLinearBurnBlendFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageLinearBurnBlendFilter.h; sourceTree = "<group>"; };
+		D7AF77651D28E48E00CA4F5F /* UCloudGPUImageLineGenerator.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageLineGenerator.h; sourceTree = "<group>"; };
+		D7AF77661D28E48E00CA4F5F /* UCloudGPUImageLocalBinaryPatternFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageLocalBinaryPatternFilter.h; sourceTree = "<group>"; };
+		D7AF77671D28E48E00CA4F5F /* UCloudGPUImageLookupFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageLookupFilter.h; sourceTree = "<group>"; };
+		D7AF77681D28E48E00CA4F5F /* UCloudGPUImageLowPassFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageLowPassFilter.h; sourceTree = "<group>"; };
+		D7AF77691D28E48E00CA4F5F /* UCloudGPUImageLuminanceRangeFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageLuminanceRangeFilter.h; sourceTree = "<group>"; };
+		D7AF776A1D28E48E00CA4F5F /* UCloudGPUImageLuminanceThresholdFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageLuminanceThresholdFilter.h; sourceTree = "<group>"; };
+		D7AF776B1D28E48E00CA4F5F /* UCloudGPUImageLuminosity.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageLuminosity.h; sourceTree = "<group>"; };
+		D7AF776C1D28E48E00CA4F5F /* UCloudGPUImageLuminosityBlendFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageLuminosityBlendFilter.h; sourceTree = "<group>"; };
+		D7AF776D1D28E48E00CA4F5F /* UCloudGPUImageMaskFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageMaskFilter.h; sourceTree = "<group>"; };
+		D7AF776E1D28E48E00CA4F5F /* UCloudGPUImageMedianFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageMedianFilter.h; sourceTree = "<group>"; };
+		D7AF776F1D28E48E00CA4F5F /* UCloudGPUImageMissEtikateFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageMissEtikateFilter.h; sourceTree = "<group>"; };
+		D7AF77701D28E48E00CA4F5F /* UCloudGPUImageMonochromeFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageMonochromeFilter.h; sourceTree = "<group>"; };
+		D7AF77711D28E48E00CA4F5F /* UCloudGPUImageMosaicFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageMosaicFilter.h; sourceTree = "<group>"; };
+		D7AF77721D28E48E00CA4F5F /* UCloudGPUImageMotionBlurFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageMotionBlurFilter.h; sourceTree = "<group>"; };
+		D7AF77731D28E48E00CA4F5F /* UCloudGPUImageMotionDetector.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageMotionDetector.h; sourceTree = "<group>"; };
+		D7AF77741D28E48E00CA4F5F /* UCloudGPUImageMovie.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageMovie.h; sourceTree = "<group>"; };
+		D7AF77751D28E48E00CA4F5F /* UCloudGPUImageMovieComposition.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageMovieComposition.h; sourceTree = "<group>"; };
+		D7AF77761D28E48E00CA4F5F /* UCloudGPUImageMovieWriter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageMovieWriter.h; sourceTree = "<group>"; };
+		D7AF77771D28E48E00CA4F5F /* UCloudGPUImageMultiplyBlendFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageMultiplyBlendFilter.h; sourceTree = "<group>"; };
+		D7AF77781D28E48E00CA4F5F /* UCloudGPUImageNobleCornerDetectionFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageNobleCornerDetectionFilter.h; sourceTree = "<group>"; };
+		D7AF77791D28E48E00CA4F5F /* UCloudGPUImageNonMaximumSuppressionFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageNonMaximumSuppressionFilter.h; sourceTree = "<group>"; };
+		D7AF777A1D28E48E00CA4F5F /* UCloudGPUImageNormalBlendFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageNormalBlendFilter.h; sourceTree = "<group>"; };
+		D7AF777B1D28E48E00CA4F5F /* UCloudGPUImageOpacityFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageOpacityFilter.h; sourceTree = "<group>"; };
+		D7AF777C1D28E48E00CA4F5F /* UCloudGPUImageOpeningFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageOpeningFilter.h; sourceTree = "<group>"; };
+		D7AF777D1D28E48E00CA4F5F /* UCloudGPUImageOutput.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageOutput.h; sourceTree = "<group>"; };
+		D7AF777E1D28E48E00CA4F5F /* UCloudGPUImageOverlayBlendFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageOverlayBlendFilter.h; sourceTree = "<group>"; };
+		D7AF777F1D28E48E00CA4F5F /* UCloudGPUImageParallelCoordinateLineTransformFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageParallelCoordinateLineTransformFilter.h; sourceTree = "<group>"; };
+		D7AF77801D28E48E00CA4F5F /* UCloudGPUImagePerlinNoiseFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImagePerlinNoiseFilter.h; sourceTree = "<group>"; };
+		D7AF77811D28E48E00CA4F5F /* UCloudGPUImagePicture+TextureSubimage.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UCloudGPUImagePicture+TextureSubimage.h"; sourceTree = "<group>"; };
+		D7AF77821D28E48E00CA4F5F /* UCloudGPUImagePicture.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImagePicture.h; sourceTree = "<group>"; };
+		D7AF77831D28E48E00CA4F5F /* UCloudGPUImagePinchDistortionFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImagePinchDistortionFilter.h; sourceTree = "<group>"; };
+		D7AF77841D28E48E00CA4F5F /* UCloudGPUImagePixellateFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImagePixellateFilter.h; sourceTree = "<group>"; };
+		D7AF77851D28E48E00CA4F5F /* UCloudGPUImagePixellatePositionFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImagePixellatePositionFilter.h; sourceTree = "<group>"; };
+		D7AF77861D28E48E00CA4F5F /* UCloudGPUImagePoissonBlendFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImagePoissonBlendFilter.h; sourceTree = "<group>"; };
+		D7AF77871D28E48E00CA4F5F /* UCloudGPUImagePolarPixellateFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImagePolarPixellateFilter.h; sourceTree = "<group>"; };
+		D7AF77881D28E48E00CA4F5F /* UCloudGPUImagePolkaDotFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImagePolkaDotFilter.h; sourceTree = "<group>"; };
+		D7AF77891D28E48E00CA4F5F /* UCloudGPUImagePosterizeFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImagePosterizeFilter.h; sourceTree = "<group>"; };
+		D7AF778A1D28E48E00CA4F5F /* UCloudGPUImagePrewittEdgeDetectionFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImagePrewittEdgeDetectionFilter.h; sourceTree = "<group>"; };
+		D7AF778B1D28E48E00CA4F5F /* UCloudGPUImageRawDataInput.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageRawDataInput.h; sourceTree = "<group>"; };
+		D7AF778C1D28E48E00CA4F5F /* UCloudGPUImageRawDataOutput.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageRawDataOutput.h; sourceTree = "<group>"; };
+		D7AF778D1D28E48E00CA4F5F /* UCloudGPUImageRGBClosingFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageRGBClosingFilter.h; sourceTree = "<group>"; };
+		D7AF778E1D28E48E00CA4F5F /* UCloudGPUImageRGBDilationFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageRGBDilationFilter.h; sourceTree = "<group>"; };
+		D7AF778F1D28E48E00CA4F5F /* UCloudGPUImageRGBErosionFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageRGBErosionFilter.h; sourceTree = "<group>"; };
+		D7AF77901D28E48E00CA4F5F /* UCloudGPUImageRGBFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageRGBFilter.h; sourceTree = "<group>"; };
+		D7AF77911D28E48E00CA4F5F /* UCloudGPUImageRGBOpeningFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageRGBOpeningFilter.h; sourceTree = "<group>"; };
+		D7AF77921D28E48E00CA4F5F /* UCloudGPUImageSaturationBlendFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageSaturationBlendFilter.h; sourceTree = "<group>"; };
+		D7AF77931D28E48E00CA4F5F /* UCloudGPUImageSaturationFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageSaturationFilter.h; sourceTree = "<group>"; };
+		D7AF77941D28E48E00CA4F5F /* UCloudGPUImageScreenBlendFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageScreenBlendFilter.h; sourceTree = "<group>"; };
+		D7AF77951D28E48E00CA4F5F /* UCloudGPUImageSepiaFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageSepiaFilter.h; sourceTree = "<group>"; };
+		D7AF77961D28E48E00CA4F5F /* UCloudGPUImageSharpenFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageSharpenFilter.h; sourceTree = "<group>"; };
+		D7AF77971D28E48E00CA4F5F /* UCloudGPUImageShiTomasiFeatureDetectionFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageShiTomasiFeatureDetectionFilter.h; sourceTree = "<group>"; };
+		D7AF77981D28E48E00CA4F5F /* UCloudGPUImageSingleComponentGaussianBlurFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageSingleComponentGaussianBlurFilter.h; sourceTree = "<group>"; };
+		D7AF77991D28E48E00CA4F5F /* UCloudGPUImageSketchFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageSketchFilter.h; sourceTree = "<group>"; };
+		D7AF779A1D28E48E00CA4F5F /* UCloudGPUImageSmoothToonFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageSmoothToonFilter.h; sourceTree = "<group>"; };
+		D7AF779B1D28E48E00CA4F5F /* UCloudGPUImageSobelEdgeDetectionFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageSobelEdgeDetectionFilter.h; sourceTree = "<group>"; };
+		D7AF779C1D28E48E00CA4F5F /* UCloudGPUImageSoftEleganceFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageSoftEleganceFilter.h; sourceTree = "<group>"; };
+		D7AF779D1D28E48E00CA4F5F /* UCloudGPUImageSoftLightBlendFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageSoftLightBlendFilter.h; sourceTree = "<group>"; };
+		D7AF779E1D28E48E00CA4F5F /* UCloudGPUImageSolidColorGenerator.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageSolidColorGenerator.h; sourceTree = "<group>"; };
+		D7AF779F1D28E48E00CA4F5F /* UCloudGPUImageSourceOverBlendFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageSourceOverBlendFilter.h; sourceTree = "<group>"; };
+		D7AF77A01D28E48E00CA4F5F /* UCloudGPUImageSphereRefractionFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageSphereRefractionFilter.h; sourceTree = "<group>"; };
+		D7AF77A11D28E48E00CA4F5F /* UCloudGPUImageStillCamera.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageStillCamera.h; sourceTree = "<group>"; };
+		D7AF77A21D28E48E00CA4F5F /* UCloudGPUImageStretchDistortionFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageStretchDistortionFilter.h; sourceTree = "<group>"; };
+		D7AF77A31D28E48E00CA4F5F /* UCloudGPUImageSubtractBlendFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageSubtractBlendFilter.h; sourceTree = "<group>"; };
+		D7AF77A41D28E48E00CA4F5F /* UCloudGPUImageSwirlFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageSwirlFilter.h; sourceTree = "<group>"; };
+		D7AF77A51D28E48E00CA4F5F /* UCloudGPUImageTextureInput.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageTextureInput.h; sourceTree = "<group>"; };
+		D7AF77A61D28E48E00CA4F5F /* UCloudGPUImageTextureOutput.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageTextureOutput.h; sourceTree = "<group>"; };
+		D7AF77A71D28E48E00CA4F5F /* UCloudGPUImageThreeInputFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageThreeInputFilter.h; sourceTree = "<group>"; };
+		D7AF77A81D28E48E00CA4F5F /* UCloudGPUImageThresholdEdgeDetectionFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageThresholdEdgeDetectionFilter.h; sourceTree = "<group>"; };
+		D7AF77A91D28E48E00CA4F5F /* UCloudGPUImageThresholdedNonMaximumSuppressionFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageThresholdedNonMaximumSuppressionFilter.h; sourceTree = "<group>"; };
+		D7AF77AA1D28E48E00CA4F5F /* UCloudGPUImageThresholdSketchFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageThresholdSketchFilter.h; sourceTree = "<group>"; };
+		D7AF77AB1D28E48E00CA4F5F /* UCloudGPUImageTiltShiftFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageTiltShiftFilter.h; sourceTree = "<group>"; };
+		D7AF77AC1D28E48E00CA4F5F /* UCloudGPUImageToneCurveFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageToneCurveFilter.h; sourceTree = "<group>"; };
+		D7AF77AD1D28E48E00CA4F5F /* UCloudGPUImageToonFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageToonFilter.h; sourceTree = "<group>"; };
+		D7AF77AE1D28E48E00CA4F5F /* UCloudGPUImageTransformFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageTransformFilter.h; sourceTree = "<group>"; };
+		D7AF77AF1D28E48E00CA4F5F /* UCloudGPUImageTwoInputCrossTextureSamplingFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageTwoInputCrossTextureSamplingFilter.h; sourceTree = "<group>"; };
+		D7AF77B01D28E48E00CA4F5F /* UCloudGPUImageTwoInputFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageTwoInputFilter.h; sourceTree = "<group>"; };
+		D7AF77B11D28E48E00CA4F5F /* UCloudGPUImageTwoPassFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageTwoPassFilter.h; sourceTree = "<group>"; };
+		D7AF77B21D28E48E00CA4F5F /* UCloudGPUImageTwoPassTextureSamplingFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageTwoPassTextureSamplingFilter.h; sourceTree = "<group>"; };
+		D7AF77B31D28E48E00CA4F5F /* UCloudGPUImageUIElement.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageUIElement.h; sourceTree = "<group>"; };
+		D7AF77B41D28E48E00CA4F5F /* UCloudGPUImageUnsharpMaskFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageUnsharpMaskFilter.h; sourceTree = "<group>"; };
+		D7AF77B51D28E48E00CA4F5F /* UCloudGPUImageVideoCamera.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageVideoCamera.h; sourceTree = "<group>"; };
+		D7AF77B61D28E48E00CA4F5F /* UCloudGPUImageView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageView.h; sourceTree = "<group>"; };
+		D7AF77B71D28E48E00CA4F5F /* UCloudGPUImageVignetteFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageVignetteFilter.h; sourceTree = "<group>"; };
+		D7AF77B81D28E48E00CA4F5F /* UCloudGPUImageVoronoiConsumerFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageVoronoiConsumerFilter.h; sourceTree = "<group>"; };
+		D7AF77B91D28E48E00CA4F5F /* UCloudGPUImageWeakPixelInclusionFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageWeakPixelInclusionFilter.h; sourceTree = "<group>"; };
+		D7AF77BA1D28E48E00CA4F5F /* UCloudGPUImageWhiteBalanceFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageWhiteBalanceFilter.h; sourceTree = "<group>"; };
+		D7AF77BB1D28E48E00CA4F5F /* UCloudGPUImageXYDerivativeFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageXYDerivativeFilter.h; sourceTree = "<group>"; };
+		D7AF77BC1D28E48E00CA4F5F /* UCloudGPUImageZoomBlurFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudGPUImageZoomBlurFilter.h; sourceTree = "<group>"; };
+		D7AF77BD1D28E48E00CA4F5F /* FilterManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FilterManager.h; sourceTree = "<group>"; };
+		D7AF77BE1D28E48E00CA4F5F /* FilterManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FilterManager.m; sourceTree = "<group>"; };
+		D7AF77BF1D28E48E00CA4F5F /* libUCloudMediaRecorder.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = libUCloudMediaRecorder.a; sourceTree = "<group>"; };
+		D7AF77C01D28E48E00CA4F5F /* NSString+UCloudCameraCode.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSString+UCloudCameraCode.h"; sourceTree = "<group>"; };
+		D7AF77C31D28E48E00CA4F5F /* UIWindow+YzdHUD.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIWindow+YzdHUD.h"; sourceTree = "<group>"; };
+		D7AF77C41D28E48E00CA4F5F /* UIWindow+YzdHUD.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIWindow+YzdHUD.m"; sourceTree = "<group>"; };
+		D7AF77C51D28E48E00CA4F5F /* YzdHUDBackgroundView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YzdHUDBackgroundView.h; sourceTree = "<group>"; };
+		D7AF77C61D28E48E00CA4F5F /* YzdHUDBackgroundView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YzdHUDBackgroundView.m; sourceTree = "<group>"; };
+		D7AF77C71D28E48E00CA4F5F /* YzdHUDImageView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YzdHUDImageView.h; sourceTree = "<group>"; };
+		D7AF77C81D28E48E00CA4F5F /* YzdHUDImageView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YzdHUDImageView.m; sourceTree = "<group>"; };
+		D7AF77C91D28E48E00CA4F5F /* YzdHUDIndicator.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YzdHUDIndicator.h; sourceTree = "<group>"; };
+		D7AF77CA1D28E48E00CA4F5F /* YzdHUDIndicator.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YzdHUDIndicator.m; sourceTree = "<group>"; };
+		D7AF77CB1D28E48E00CA4F5F /* YzdHUDLabel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YzdHUDLabel.h; sourceTree = "<group>"; };
+		D7AF77CC1D28E48E00CA4F5F /* YzdHUDLabel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YzdHUDLabel.m; sourceTree = "<group>"; };
+		D7AF77CD1D28E48E00CA4F5F /* PlayerManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PlayerManager.h; sourceTree = "<group>"; };
+		D7AF77CE1D28E48E00CA4F5F /* PlayerManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PlayerManager.m; sourceTree = "<group>"; };
+		D7AF77D01D28E48E00CA4F5F /* bg_screen_shot_complete.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bg_screen_shot_complete.png; sourceTree = "<group>"; };
+		D7AF77D11D28E48E00CA4F5F /* bg_screen_shot_complete@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "bg_screen_shot_complete@2x.png"; sourceTree = "<group>"; };
+		D7AF77D21D28E48E00CA4F5F /* bg_screen_shot_complete@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "bg_screen_shot_complete@3x.png"; sourceTree = "<group>"; };
+		D7AF77D31D28E48E00CA4F5F /* bg_screen_shot_frame.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bg_screen_shot_frame.png; sourceTree = "<group>"; };
+		D7AF77D41D28E48E00CA4F5F /* bright_point.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bright_point.png; sourceTree = "<group>"; };
+		D7AF77D51D28E48E00CA4F5F /* brightness_bgiphone.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = brightness_bgiphone.png; sourceTree = "<group>"; };
+		D7AF77D61D28E48E00CA4F5F /* brightness_bg~iphone@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "brightness_bg~iphone@3x.png"; sourceTree = "<group>"; };
+		D7AF77D71D28E48E00CA4F5F /* danmu.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = danmu.png; sourceTree = "<group>"; };
+		D7AF77D81D28E48E00CA4F5F /* danmu_h.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = danmu_h.png; sourceTree = "<group>"; };
+		D7AF77D91D28E48E00CA4F5F /* ic_screen_shot.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ic_screen_shot.png; sourceTree = "<group>"; };
+		D7AF77DA1D28E48E00CA4F5F /* icon_bottomview_brightness_button_normal.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon_bottomview_brightness_button_normal.png; sourceTree = "<group>"; };
+		D7AF77DB1D28E48E00CA4F5F /* icon_bottomview_brightness_button_selected.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon_bottomview_brightness_button_selected.png; sourceTree = "<group>"; };
+		D7AF77DC1D28E48E00CA4F5F /* icon_bottomview_pause_button_normal.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon_bottomview_pause_button_normal.png; sourceTree = "<group>"; };
+		D7AF77DD1D28E48E00CA4F5F /* icon_bottomview_play_button_normal.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon_bottomview_play_button_normal.png; sourceTree = "<group>"; };
+		D7AF77DE1D28E48E00CA4F5F /* icon_bottomview_volume_button_normal.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon_bottomview_volume_button_normal.png; sourceTree = "<group>"; };
+		D7AF77DF1D28E48E00CA4F5F /* icon_bottomview_volume_button_selected.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon_bottomview_volume_button_selected.png; sourceTree = "<group>"; };
+		D7AF77E01D28E48E00CA4F5F /* icon_play_status.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon_play_status.png; sourceTree = "<group>"; };
+		D7AF77E11D28E48E00CA4F5F /* icon_screen_shot_action.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon_screen_shot_action.png; sourceTree = "<group>"; };
+		D7AF77E21D28E48E00CA4F5F /* icon_topview_left__button_selected.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon_topview_left__button_selected.png; sourceTree = "<group>"; };
+		D7AF77E31D28E48E00CA4F5F /* icon_topview_left_button_normal.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon_topview_left_button_normal.png; sourceTree = "<group>"; };
+		D7AF77E41D28E48E00CA4F5F /* icon_topview_right_button_normal.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon_topview_right_button_normal.png; sourceTree = "<group>"; };
+		D7AF77E51D28E48E00CA4F5F /* icon_topview_right_button_selected.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon_topview_right_button_selected.png; sourceTree = "<group>"; };
+		D7AF77E61D28E48E00CA4F5F /* loading.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = loading.png; sourceTree = "<group>"; };
+		D7AF77E71D28E48E00CA4F5F /* UCloudBrightnessView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudBrightnessView.h; sourceTree = "<group>"; };
+		D7AF77E81D28E48E00CA4F5F /* UCloudBrightnessView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = UCloudBrightnessView.m; sourceTree = "<group>"; };
+		D7AF77E91D28E48E00CA4F5F /* UCloudDefine.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudDefine.h; sourceTree = "<group>"; };
+		D7AF77EA1D28E48E00CA4F5F /* UCloudHeader.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudHeader.h; sourceTree = "<group>"; };
+		D7AF77EB1D28E48E00CA4F5F /* UCloudLoadingView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudLoadingView.h; sourceTree = "<group>"; };
+		D7AF77EC1D28E48E00CA4F5F /* UCloudLoadingView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = UCloudLoadingView.m; sourceTree = "<group>"; };
+		D7AF77ED1D28E48E00CA4F5F /* UCloudMediaViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudMediaViewController.h; sourceTree = "<group>"; };
+		D7AF77EE1D28E48E00CA4F5F /* UCloudMediaViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = UCloudMediaViewController.m; sourceTree = "<group>"; };
+		D7AF77EF1D28E48E00CA4F5F /* UCloudMediaViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = UCloudMediaViewController.xib; sourceTree = "<group>"; };
+		D7AF77F01D28E48E00CA4F5F /* UCloudProgressView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UCloudProgressView.h; sourceTree = "<group>"; };
+		D7AF77F11D28E48E00CA4F5F /* UCloudProgressView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = UCloudProgressView.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -350,14 +355,14 @@
 				D71DEA041D28E11800608189 /* AVFoundation.framework in Frameworks */,
 				D71DEA021D28E11200608189 /* AudioToolbox.framework in Frameworks */,
 				D71DEA001D28E10800608189 /* MobileCoreServices.framework in Frameworks */,
+				D7AF77F41D28E48E00CA4F5F /* libUCloudMediaPlayer.a in Frameworks */,
 				D71DE9FE1D28E0FF00608189 /* ImageIO.framework in Frameworks */,
+				D7AF77F61D28E48E00CA4F5F /* libUCloudMediaRecorder.a in Frameworks */,
 				D71DE9FC1D28E0FA00608189 /* libz.tbd in Frameworks */,
 				D71DE9FA1D28E0F200608189 /* libc++.tbd in Frameworks */,
 				D71DE9F81D28E0E900608189 /* libstdc++.6.0.9.tbd in Frameworks */,
 				D71DE9F61D28E0DD00608189 /* libsqlite3.tbd in Frameworks */,
 				D71DE9F41D28E0D200608189 /* libiconv.tbd in Frameworks */,
-				D71DE9D01D28E0B700608189 /* libUCloudMediaRecorder.a in Frameworks */,
-				D71DE9CE1D28E0B700608189 /* libUCloudMediaPlayer.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -384,7 +389,7 @@
 				D71DE8AE1D28DFE100608189 /* AmYellowLive */,
 				D71DE8C81D28DFE100608189 /* AmYellowLiveTests */,
 				D71DE8D31D28DFE100608189 /* AmYellowLiveUITests */,
-				D71DE8E31D28E07900608189 /* Vendors */,
+				D71DEA141D28E3F400608189 /* Vendors */,
 				D71DE8E21D28E03E00608189 /* Frameworks */,
 				D71DE8AD1D28DFE100608189 /* Products */,
 			);
@@ -403,11 +408,11 @@
 		D71DE8AE1D28DFE100608189 /* AmYellowLive */ = {
 			isa = PBXGroup;
 			children = (
+				D71DEA121D28E36100608189 /* Categories */,
+				D71DEA111D28E36100608189 /* Model */,
+				D71DEA131D28E36100608189 /* Scenes */,
 				D71DE8B21D28DFE100608189 /* AppDelegate.h */,
 				D71DE8B31D28DFE100608189 /* AppDelegate.m */,
-				D71DE8B51D28DFE100608189 /* ViewController.h */,
-				D71DE8B61D28DFE100608189 /* ViewController.m */,
-				D71DE8B81D28DFE100608189 /* Main.storyboard */,
 				D71DE8AF1D28DFE100608189 /* Supporting Files */,
 			);
 			path = AmYellowLive;
@@ -462,292 +467,327 @@
 			path = AmYellowLive;
 			sourceTree = "<group>";
 		};
-		D71DE8E31D28E07900608189 /* Vendors */ = {
+		D71DEA111D28E36100608189 /* Model */ = {
 			isa = PBXGroup;
 			children = (
-				D71DE8E41D28E0B600608189 /* UCloudSDK */,
-				D71DE99D1D28E0B700608189 /* UCloudUI */,
 			);
-			name = Vendors;
+			path = Model;
 			sourceTree = "<group>";
 		};
-		D71DE8E41D28E0B600608189 /* UCloudSDK */ = {
+		D71DEA121D28E36100608189 /* Categories */ = {
 			isa = PBXGroup;
 			children = (
-				D71DE8E51D28E0B600608189 /* Player */,
-				D71DE8EB1D28E0B600608189 /* Recorder */,
+			);
+			path = Categories;
+			sourceTree = "<group>";
+		};
+		D71DEA131D28E36100608189 /* Scenes */ = {
+			isa = PBXGroup;
+			children = (
+				D71DE8B51D28DFE100608189 /* ViewController.h */,
+				D71DE8B61D28DFE100608189 /* ViewController.m */,
+				D71DE8B81D28DFE100608189 /* Main.storyboard */,
+			);
+			path = Scenes;
+			sourceTree = "<group>";
+		};
+		D71DEA141D28E3F400608189 /* Vendors */ = {
+			isa = PBXGroup;
+			children = (
+				D7AF77041D28E48E00CA4F5F /* Custom */,
+				D7AF77081D28E48E00CA4F5F /* UCloudSDK */,
+				D7AF77C11D28E48E00CA4F5F /* UCloudUI */,
+			);
+			path = Vendors;
+			sourceTree = "<group>";
+		};
+		D7AF77041D28E48E00CA4F5F /* Custom */ = {
+			isa = PBXGroup;
+			children = (
+				D7AF77051D28E48E00CA4F5F /* UcCameraView.h */,
+				D7AF77061D28E48E00CA4F5F /* UcCameraView.m */,
+				D7AF77071D28E48E00CA4F5F /* UcCameraView.xib */,
+			);
+			path = Custom;
+			sourceTree = "<group>";
+		};
+		D7AF77081D28E48E00CA4F5F /* UCloudSDK */ = {
+			isa = PBXGroup;
+			children = (
+				D7AF77091D28E48E00CA4F5F /* Player */,
+				D7AF770F1D28E48E00CA4F5F /* Recorder */,
 			);
 			path = UCloudSDK;
 			sourceTree = "<group>";
 		};
-		D71DE8E51D28E0B600608189 /* Player */ = {
+		D7AF77091D28E48E00CA4F5F /* Player */ = {
 			isa = PBXGroup;
 			children = (
-				D71DE8E61D28E0B600608189 /* libUCloudMediaPlayer.a */,
-				D71DE8E71D28E0B600608189 /* UCloudMediaModule.h */,
-				D71DE8E81D28E0B600608189 /* UCloudMediaPlayback.h */,
-				D71DE8E91D28E0B600608189 /* UCloudMediaPlayer.h */,
-				D71DE8EA1D28E0B600608189 /* UCloudPlayback.h */,
+				D7AF770A1D28E48E00CA4F5F /* libUCloudMediaPlayer.a */,
+				D7AF770B1D28E48E00CA4F5F /* UCloudMediaModule.h */,
+				D7AF770C1D28E48E00CA4F5F /* UCloudMediaPlayback.h */,
+				D7AF770D1D28E48E00CA4F5F /* UCloudMediaPlayer.h */,
+				D7AF770E1D28E48E00CA4F5F /* UCloudPlayback.h */,
 			);
 			path = Player;
 			sourceTree = "<group>";
 		};
-		D71DE8EB1D28E0B600608189 /* Recorder */ = {
+		D7AF770F1D28E48E00CA4F5F /* Recorder */ = {
 			isa = PBXGroup;
 			children = (
-				D71DE8EC1D28E0B600608189 /* CameraServer.h */,
-				D71DE8ED1D28E0B600608189 /* Filter */,
-				D71DE9991D28E0B700608189 /* FilterManager.h */,
-				D71DE99A1D28E0B700608189 /* FilterManager.m */,
-				D71DE99B1D28E0B700608189 /* libUCloudMediaRecorder.a */,
-				D71DE99C1D28E0B700608189 /* NSString+UCloudCameraCode.h */,
+				D7AF77101D28E48E00CA4F5F /* CameraServer.h */,
+				D7AF77111D28E48E00CA4F5F /* Filter */,
+				D7AF77BD1D28E48E00CA4F5F /* FilterManager.h */,
+				D7AF77BE1D28E48E00CA4F5F /* FilterManager.m */,
+				D7AF77BF1D28E48E00CA4F5F /* libUCloudMediaRecorder.a */,
+				D7AF77C01D28E48E00CA4F5F /* NSString+UCloudCameraCode.h */,
 			);
 			path = Recorder;
 			sourceTree = "<group>";
 		};
-		D71DE8ED1D28E0B600608189 /* Filter */ = {
+		D7AF77111D28E48E00CA4F5F /* Filter */ = {
 			isa = PBXGroup;
 			children = (
-				D71DE8EE1D28E0B600608189 /* UCloudGLProgram.h */,
-				D71DE8EF1D28E0B600608189 /* UCloudGPUImage.h */,
-				D71DE8F01D28E0B600608189 /* UCloudGPUImage3x3ConvolutionFilter.h */,
-				D71DE8F11D28E0B600608189 /* UCloudGPUImage3x3TextureSamplingFilter.h */,
-				D71DE8F21D28E0B600608189 /* UCloudGPUImageAdaptiveThresholdFilter.h */,
-				D71DE8F31D28E0B600608189 /* UCloudGPUImageAddBlendFilter.h */,
-				D71DE8F41D28E0B600608189 /* UCloudGPUImageAlphaBlendFilter.h */,
-				D71DE8F51D28E0B600608189 /* UCloudGPUImageAmatorkaFilter.h */,
-				D71DE8F61D28E0B600608189 /* UCloudGPUImageAverageColor.h */,
-				D71DE8F71D28E0B600608189 /* UCloudGPUImageAverageLuminanceThresholdFilter.h */,
-				D71DE8F81D28E0B600608189 /* UCloudGPUImageBeautyFilter.h */,
-				D71DE8F91D28E0B600608189 /* UCloudGPUImageBilateralFilter.h */,
-				D71DE8FA1D28E0B600608189 /* UCloudGPUImageBoxBlurFilter.h */,
-				D71DE8FB1D28E0B600608189 /* UCloudGPUImageBrightnessFilter.h */,
-				D71DE8FC1D28E0B600608189 /* UCloudGPUImageBuffer.h */,
-				D71DE8FD1D28E0B600608189 /* UCloudGPUImageBulgeDistortionFilter.h */,
-				D71DE8FE1D28E0B600608189 /* UCloudGPUImageCannyEdgeDetectionFilter.h */,
-				D71DE8FF1D28E0B600608189 /* UCloudGPUImageCGAColorspaceFilter.h */,
-				D71DE9001D28E0B600608189 /* UCloudGPUImageChromaKeyBlendFilter.h */,
-				D71DE9011D28E0B600608189 /* UCloudGPUImageChromaKeyFilter.h */,
-				D71DE9021D28E0B600608189 /* UCloudGPUImageClosingFilter.h */,
-				D71DE9031D28E0B600608189 /* UCloudGPUImageColorBlendFilter.h */,
-				D71DE9041D28E0B600608189 /* UCloudGPUImageColorBurnBlendFilter.h */,
-				D71DE9051D28E0B600608189 /* UCloudGPUImageColorConversion.h */,
-				D71DE9061D28E0B600608189 /* UCloudGPUImageColorDodgeBlendFilter.h */,
-				D71DE9071D28E0B600608189 /* UCloudGPUImageColorInvertFilter.h */,
-				D71DE9081D28E0B600608189 /* UCloudGPUImageColorLocalBinaryPatternFilter.h */,
-				D71DE9091D28E0B600608189 /* UCloudGPUImageColorMatrixFilter.h */,
-				D71DE90A1D28E0B600608189 /* UCloudGPUImageColorPackingFilter.h */,
-				D71DE90B1D28E0B600608189 /* UCloudGPUImageColourFASTFeatureDetector.h */,
-				D71DE90C1D28E0B600608189 /* UCloudGPUImageColourFASTSamplingOperation.h */,
-				D71DE90D1D28E0B600608189 /* UCloudGPUImageContext.h */,
-				D71DE90E1D28E0B600608189 /* UCloudGPUImageContrastFilter.h */,
-				D71DE90F1D28E0B600608189 /* UCloudGPUImageCropFilter.h */,
-				D71DE9101D28E0B600608189 /* UCloudGPUImageCrosshairGenerator.h */,
-				D71DE9111D28E0B600608189 /* UCloudGPUImageCrosshatchFilter.h */,
-				D71DE9121D28E0B600608189 /* UCloudGPUImageDarkenBlendFilter.h */,
-				D71DE9131D28E0B600608189 /* UCloudGPUImageDifferenceBlendFilter.h */,
-				D71DE9141D28E0B600608189 /* UCloudGPUImageDilationFilter.h */,
-				D71DE9151D28E0B600608189 /* UCloudGPUImageDirectionalNonMaximumSuppressionFilter.h */,
-				D71DE9161D28E0B600608189 /* UCloudGPUImageDirectionalSobelEdgeDetectionFilter.h */,
-				D71DE9171D28E0B600608189 /* UCloudGPUImageDissolveBlendFilter.h */,
-				D71DE9181D28E0B600608189 /* UCloudGPUImageDivideBlendFilter.h */,
-				D71DE9191D28E0B600608189 /* UCloudGPUImageEmbossFilter.h */,
-				D71DE91A1D28E0B600608189 /* UCloudGPUImageErosionFilter.h */,
-				D71DE91B1D28E0B600608189 /* UCloudGPUImageExclusionBlendFilter.h */,
-				D71DE91C1D28E0B700608189 /* UCloudGPUImageExposureFilter.h */,
-				D71DE91D1D28E0B700608189 /* UCloudGPUImageFalseColorFilter.h */,
-				D71DE91E1D28E0B700608189 /* UCloudGPUImageFASTCornerDetectionFilter.h */,
-				D71DE91F1D28E0B700608189 /* UCloudGPUImageFilter.h */,
-				D71DE9201D28E0B700608189 /* UCloudGPUImageFilterGroup.h */,
-				D71DE9211D28E0B700608189 /* UCloudGPUImageFilterPipeline.h */,
-				D71DE9221D28E0B700608189 /* UCloudGPUImageFourInputFilter.h */,
-				D71DE9231D28E0B700608189 /* UCloudGPUImageFramebuffer.h */,
-				D71DE9241D28E0B700608189 /* UCloudGPUImageFramebufferCache.h */,
-				D71DE9251D28E0B700608189 /* UCloudGPUImageGammaFilter.h */,
-				D71DE9261D28E0B700608189 /* UCloudGPUImageGaussianBlurFilter.h */,
-				D71DE9271D28E0B700608189 /* UCloudGPUImageGaussianBlurPositionFilter.h */,
-				D71DE9281D28E0B700608189 /* UCloudGPUImageGaussianSelectiveBlurFilter.h */,
-				D71DE9291D28E0B700608189 /* UCloudGPUImageGlassSphereFilter.h */,
-				D71DE92A1D28E0B700608189 /* UCloudGPUImageGrayscaleFilter.h */,
-				D71DE92B1D28E0B700608189 /* UCloudGPUImageHalftoneFilter.h */,
-				D71DE92C1D28E0B700608189 /* UCloudGPUImageHardLightBlendFilter.h */,
-				D71DE92D1D28E0B700608189 /* UCloudGPUImageHarrisCornerDetectionFilter.h */,
-				D71DE92E1D28E0B700608189 /* UCloudGPUImageHazeFilter.h */,
-				D71DE92F1D28E0B700608189 /* UCloudGPUImageHighlightShadowFilter.h */,
-				D71DE9301D28E0B700608189 /* UCloudGPUImageHighPassFilter.h */,
-				D71DE9311D28E0B700608189 /* UCloudGPUImageHistogramEqualizationFilter.h */,
-				D71DE9321D28E0B700608189 /* UCloudGPUImageHistogramFilter.h */,
-				D71DE9331D28E0B700608189 /* UCloudGPUImageHistogramGenerator.h */,
-				D71DE9341D28E0B700608189 /* UCloudGPUImageHoughTransformLineDetector.h */,
-				D71DE9351D28E0B700608189 /* UCloudGPUImageHSBFilter.h */,
-				D71DE9361D28E0B700608189 /* UCloudGPUImageHueBlendFilter.h */,
-				D71DE9371D28E0B700608189 /* UCloudGPUImageHueFilter.h */,
-				D71DE9381D28E0B700608189 /* UCloudGPUImageiOSBlurFilter.h */,
-				D71DE9391D28E0B700608189 /* UCloudGPUImageJFAVoronoiFilter.h */,
-				D71DE93A1D28E0B700608189 /* UCloudGPUImageKuwaharaFilter.h */,
-				D71DE93B1D28E0B700608189 /* UCloudGPUImageKuwaharaRadius3Filter.h */,
-				D71DE93C1D28E0B700608189 /* UCloudGPUImageLanczosResamplingFilter.h */,
-				D71DE93D1D28E0B700608189 /* UCloudGPUImageLaplacianFilter.h */,
-				D71DE93E1D28E0B700608189 /* UCloudGPUImageLevelsFilter.h */,
-				D71DE93F1D28E0B700608189 /* UCloudGPUImageLightenBlendFilter.h */,
-				D71DE9401D28E0B700608189 /* UCloudGPUImageLinearBurnBlendFilter.h */,
-				D71DE9411D28E0B700608189 /* UCloudGPUImageLineGenerator.h */,
-				D71DE9421D28E0B700608189 /* UCloudGPUImageLocalBinaryPatternFilter.h */,
-				D71DE9431D28E0B700608189 /* UCloudGPUImageLookupFilter.h */,
-				D71DE9441D28E0B700608189 /* UCloudGPUImageLowPassFilter.h */,
-				D71DE9451D28E0B700608189 /* UCloudGPUImageLuminanceRangeFilter.h */,
-				D71DE9461D28E0B700608189 /* UCloudGPUImageLuminanceThresholdFilter.h */,
-				D71DE9471D28E0B700608189 /* UCloudGPUImageLuminosity.h */,
-				D71DE9481D28E0B700608189 /* UCloudGPUImageLuminosityBlendFilter.h */,
-				D71DE9491D28E0B700608189 /* UCloudGPUImageMaskFilter.h */,
-				D71DE94A1D28E0B700608189 /* UCloudGPUImageMedianFilter.h */,
-				D71DE94B1D28E0B700608189 /* UCloudGPUImageMissEtikateFilter.h */,
-				D71DE94C1D28E0B700608189 /* UCloudGPUImageMonochromeFilter.h */,
-				D71DE94D1D28E0B700608189 /* UCloudGPUImageMosaicFilter.h */,
-				D71DE94E1D28E0B700608189 /* UCloudGPUImageMotionBlurFilter.h */,
-				D71DE94F1D28E0B700608189 /* UCloudGPUImageMotionDetector.h */,
-				D71DE9501D28E0B700608189 /* UCloudGPUImageMovie.h */,
-				D71DE9511D28E0B700608189 /* UCloudGPUImageMovieComposition.h */,
-				D71DE9521D28E0B700608189 /* UCloudGPUImageMovieWriter.h */,
-				D71DE9531D28E0B700608189 /* UCloudGPUImageMultiplyBlendFilter.h */,
-				D71DE9541D28E0B700608189 /* UCloudGPUImageNobleCornerDetectionFilter.h */,
-				D71DE9551D28E0B700608189 /* UCloudGPUImageNonMaximumSuppressionFilter.h */,
-				D71DE9561D28E0B700608189 /* UCloudGPUImageNormalBlendFilter.h */,
-				D71DE9571D28E0B700608189 /* UCloudGPUImageOpacityFilter.h */,
-				D71DE9581D28E0B700608189 /* UCloudGPUImageOpeningFilter.h */,
-				D71DE9591D28E0B700608189 /* UCloudGPUImageOutput.h */,
-				D71DE95A1D28E0B700608189 /* UCloudGPUImageOverlayBlendFilter.h */,
-				D71DE95B1D28E0B700608189 /* UCloudGPUImageParallelCoordinateLineTransformFilter.h */,
-				D71DE95C1D28E0B700608189 /* UCloudGPUImagePerlinNoiseFilter.h */,
-				D71DE95D1D28E0B700608189 /* UCloudGPUImagePicture+TextureSubimage.h */,
-				D71DE95E1D28E0B700608189 /* UCloudGPUImagePicture.h */,
-				D71DE95F1D28E0B700608189 /* UCloudGPUImagePinchDistortionFilter.h */,
-				D71DE9601D28E0B700608189 /* UCloudGPUImagePixellateFilter.h */,
-				D71DE9611D28E0B700608189 /* UCloudGPUImagePixellatePositionFilter.h */,
-				D71DE9621D28E0B700608189 /* UCloudGPUImagePoissonBlendFilter.h */,
-				D71DE9631D28E0B700608189 /* UCloudGPUImagePolarPixellateFilter.h */,
-				D71DE9641D28E0B700608189 /* UCloudGPUImagePolkaDotFilter.h */,
-				D71DE9651D28E0B700608189 /* UCloudGPUImagePosterizeFilter.h */,
-				D71DE9661D28E0B700608189 /* UCloudGPUImagePrewittEdgeDetectionFilter.h */,
-				D71DE9671D28E0B700608189 /* UCloudGPUImageRawDataInput.h */,
-				D71DE9681D28E0B700608189 /* UCloudGPUImageRawDataOutput.h */,
-				D71DE9691D28E0B700608189 /* UCloudGPUImageRGBClosingFilter.h */,
-				D71DE96A1D28E0B700608189 /* UCloudGPUImageRGBDilationFilter.h */,
-				D71DE96B1D28E0B700608189 /* UCloudGPUImageRGBErosionFilter.h */,
-				D71DE96C1D28E0B700608189 /* UCloudGPUImageRGBFilter.h */,
-				D71DE96D1D28E0B700608189 /* UCloudGPUImageRGBOpeningFilter.h */,
-				D71DE96E1D28E0B700608189 /* UCloudGPUImageSaturationBlendFilter.h */,
-				D71DE96F1D28E0B700608189 /* UCloudGPUImageSaturationFilter.h */,
-				D71DE9701D28E0B700608189 /* UCloudGPUImageScreenBlendFilter.h */,
-				D71DE9711D28E0B700608189 /* UCloudGPUImageSepiaFilter.h */,
-				D71DE9721D28E0B700608189 /* UCloudGPUImageSharpenFilter.h */,
-				D71DE9731D28E0B700608189 /* UCloudGPUImageShiTomasiFeatureDetectionFilter.h */,
-				D71DE9741D28E0B700608189 /* UCloudGPUImageSingleComponentGaussianBlurFilter.h */,
-				D71DE9751D28E0B700608189 /* UCloudGPUImageSketchFilter.h */,
-				D71DE9761D28E0B700608189 /* UCloudGPUImageSmoothToonFilter.h */,
-				D71DE9771D28E0B700608189 /* UCloudGPUImageSobelEdgeDetectionFilter.h */,
-				D71DE9781D28E0B700608189 /* UCloudGPUImageSoftEleganceFilter.h */,
-				D71DE9791D28E0B700608189 /* UCloudGPUImageSoftLightBlendFilter.h */,
-				D71DE97A1D28E0B700608189 /* UCloudGPUImageSolidColorGenerator.h */,
-				D71DE97B1D28E0B700608189 /* UCloudGPUImageSourceOverBlendFilter.h */,
-				D71DE97C1D28E0B700608189 /* UCloudGPUImageSphereRefractionFilter.h */,
-				D71DE97D1D28E0B700608189 /* UCloudGPUImageStillCamera.h */,
-				D71DE97E1D28E0B700608189 /* UCloudGPUImageStretchDistortionFilter.h */,
-				D71DE97F1D28E0B700608189 /* UCloudGPUImageSubtractBlendFilter.h */,
-				D71DE9801D28E0B700608189 /* UCloudGPUImageSwirlFilter.h */,
-				D71DE9811D28E0B700608189 /* UCloudGPUImageTextureInput.h */,
-				D71DE9821D28E0B700608189 /* UCloudGPUImageTextureOutput.h */,
-				D71DE9831D28E0B700608189 /* UCloudGPUImageThreeInputFilter.h */,
-				D71DE9841D28E0B700608189 /* UCloudGPUImageThresholdEdgeDetectionFilter.h */,
-				D71DE9851D28E0B700608189 /* UCloudGPUImageThresholdedNonMaximumSuppressionFilter.h */,
-				D71DE9861D28E0B700608189 /* UCloudGPUImageThresholdSketchFilter.h */,
-				D71DE9871D28E0B700608189 /* UCloudGPUImageTiltShiftFilter.h */,
-				D71DE9881D28E0B700608189 /* UCloudGPUImageToneCurveFilter.h */,
-				D71DE9891D28E0B700608189 /* UCloudGPUImageToonFilter.h */,
-				D71DE98A1D28E0B700608189 /* UCloudGPUImageTransformFilter.h */,
-				D71DE98B1D28E0B700608189 /* UCloudGPUImageTwoInputCrossTextureSamplingFilter.h */,
-				D71DE98C1D28E0B700608189 /* UCloudGPUImageTwoInputFilter.h */,
-				D71DE98D1D28E0B700608189 /* UCloudGPUImageTwoPassFilter.h */,
-				D71DE98E1D28E0B700608189 /* UCloudGPUImageTwoPassTextureSamplingFilter.h */,
-				D71DE98F1D28E0B700608189 /* UCloudGPUImageUIElement.h */,
-				D71DE9901D28E0B700608189 /* UCloudGPUImageUnsharpMaskFilter.h */,
-				D71DE9911D28E0B700608189 /* UCloudGPUImageVideoCamera.h */,
-				D71DE9921D28E0B700608189 /* UCloudGPUImageView.h */,
-				D71DE9931D28E0B700608189 /* UCloudGPUImageVignetteFilter.h */,
-				D71DE9941D28E0B700608189 /* UCloudGPUImageVoronoiConsumerFilter.h */,
-				D71DE9951D28E0B700608189 /* UCloudGPUImageWeakPixelInclusionFilter.h */,
-				D71DE9961D28E0B700608189 /* UCloudGPUImageWhiteBalanceFilter.h */,
-				D71DE9971D28E0B700608189 /* UCloudGPUImageXYDerivativeFilter.h */,
-				D71DE9981D28E0B700608189 /* UCloudGPUImageZoomBlurFilter.h */,
+				D7AF77121D28E48E00CA4F5F /* UCloudGLProgram.h */,
+				D7AF77131D28E48E00CA4F5F /* UCloudGPUImage.h */,
+				D7AF77141D28E48E00CA4F5F /* UCloudGPUImage3x3ConvolutionFilter.h */,
+				D7AF77151D28E48E00CA4F5F /* UCloudGPUImage3x3TextureSamplingFilter.h */,
+				D7AF77161D28E48E00CA4F5F /* UCloudGPUImageAdaptiveThresholdFilter.h */,
+				D7AF77171D28E48E00CA4F5F /* UCloudGPUImageAddBlendFilter.h */,
+				D7AF77181D28E48E00CA4F5F /* UCloudGPUImageAlphaBlendFilter.h */,
+				D7AF77191D28E48E00CA4F5F /* UCloudGPUImageAmatorkaFilter.h */,
+				D7AF771A1D28E48E00CA4F5F /* UCloudGPUImageAverageColor.h */,
+				D7AF771B1D28E48E00CA4F5F /* UCloudGPUImageAverageLuminanceThresholdFilter.h */,
+				D7AF771C1D28E48E00CA4F5F /* UCloudGPUImageBeautyFilter.h */,
+				D7AF771D1D28E48E00CA4F5F /* UCloudGPUImageBilateralFilter.h */,
+				D7AF771E1D28E48E00CA4F5F /* UCloudGPUImageBoxBlurFilter.h */,
+				D7AF771F1D28E48E00CA4F5F /* UCloudGPUImageBrightnessFilter.h */,
+				D7AF77201D28E48E00CA4F5F /* UCloudGPUImageBuffer.h */,
+				D7AF77211D28E48E00CA4F5F /* UCloudGPUImageBulgeDistortionFilter.h */,
+				D7AF77221D28E48E00CA4F5F /* UCloudGPUImageCannyEdgeDetectionFilter.h */,
+				D7AF77231D28E48E00CA4F5F /* UCloudGPUImageCGAColorspaceFilter.h */,
+				D7AF77241D28E48E00CA4F5F /* UCloudGPUImageChromaKeyBlendFilter.h */,
+				D7AF77251D28E48E00CA4F5F /* UCloudGPUImageChromaKeyFilter.h */,
+				D7AF77261D28E48E00CA4F5F /* UCloudGPUImageClosingFilter.h */,
+				D7AF77271D28E48E00CA4F5F /* UCloudGPUImageColorBlendFilter.h */,
+				D7AF77281D28E48E00CA4F5F /* UCloudGPUImageColorBurnBlendFilter.h */,
+				D7AF77291D28E48E00CA4F5F /* UCloudGPUImageColorConversion.h */,
+				D7AF772A1D28E48E00CA4F5F /* UCloudGPUImageColorDodgeBlendFilter.h */,
+				D7AF772B1D28E48E00CA4F5F /* UCloudGPUImageColorInvertFilter.h */,
+				D7AF772C1D28E48E00CA4F5F /* UCloudGPUImageColorLocalBinaryPatternFilter.h */,
+				D7AF772D1D28E48E00CA4F5F /* UCloudGPUImageColorMatrixFilter.h */,
+				D7AF772E1D28E48E00CA4F5F /* UCloudGPUImageColorPackingFilter.h */,
+				D7AF772F1D28E48E00CA4F5F /* UCloudGPUImageColourFASTFeatureDetector.h */,
+				D7AF77301D28E48E00CA4F5F /* UCloudGPUImageColourFASTSamplingOperation.h */,
+				D7AF77311D28E48E00CA4F5F /* UCloudGPUImageContext.h */,
+				D7AF77321D28E48E00CA4F5F /* UCloudGPUImageContrastFilter.h */,
+				D7AF77331D28E48E00CA4F5F /* UCloudGPUImageCropFilter.h */,
+				D7AF77341D28E48E00CA4F5F /* UCloudGPUImageCrosshairGenerator.h */,
+				D7AF77351D28E48E00CA4F5F /* UCloudGPUImageCrosshatchFilter.h */,
+				D7AF77361D28E48E00CA4F5F /* UCloudGPUImageDarkenBlendFilter.h */,
+				D7AF77371D28E48E00CA4F5F /* UCloudGPUImageDifferenceBlendFilter.h */,
+				D7AF77381D28E48E00CA4F5F /* UCloudGPUImageDilationFilter.h */,
+				D7AF77391D28E48E00CA4F5F /* UCloudGPUImageDirectionalNonMaximumSuppressionFilter.h */,
+				D7AF773A1D28E48E00CA4F5F /* UCloudGPUImageDirectionalSobelEdgeDetectionFilter.h */,
+				D7AF773B1D28E48E00CA4F5F /* UCloudGPUImageDissolveBlendFilter.h */,
+				D7AF773C1D28E48E00CA4F5F /* UCloudGPUImageDivideBlendFilter.h */,
+				D7AF773D1D28E48E00CA4F5F /* UCloudGPUImageEmbossFilter.h */,
+				D7AF773E1D28E48E00CA4F5F /* UCloudGPUImageErosionFilter.h */,
+				D7AF773F1D28E48E00CA4F5F /* UCloudGPUImageExclusionBlendFilter.h */,
+				D7AF77401D28E48E00CA4F5F /* UCloudGPUImageExposureFilter.h */,
+				D7AF77411D28E48E00CA4F5F /* UCloudGPUImageFalseColorFilter.h */,
+				D7AF77421D28E48E00CA4F5F /* UCloudGPUImageFASTCornerDetectionFilter.h */,
+				D7AF77431D28E48E00CA4F5F /* UCloudGPUImageFilter.h */,
+				D7AF77441D28E48E00CA4F5F /* UCloudGPUImageFilterGroup.h */,
+				D7AF77451D28E48E00CA4F5F /* UCloudGPUImageFilterPipeline.h */,
+				D7AF77461D28E48E00CA4F5F /* UCloudGPUImageFourInputFilter.h */,
+				D7AF77471D28E48E00CA4F5F /* UCloudGPUImageFramebuffer.h */,
+				D7AF77481D28E48E00CA4F5F /* UCloudGPUImageFramebufferCache.h */,
+				D7AF77491D28E48E00CA4F5F /* UCloudGPUImageGammaFilter.h */,
+				D7AF774A1D28E48E00CA4F5F /* UCloudGPUImageGaussianBlurFilter.h */,
+				D7AF774B1D28E48E00CA4F5F /* UCloudGPUImageGaussianBlurPositionFilter.h */,
+				D7AF774C1D28E48E00CA4F5F /* UCloudGPUImageGaussianSelectiveBlurFilter.h */,
+				D7AF774D1D28E48E00CA4F5F /* UCloudGPUImageGlassSphereFilter.h */,
+				D7AF774E1D28E48E00CA4F5F /* UCloudGPUImageGrayscaleFilter.h */,
+				D7AF774F1D28E48E00CA4F5F /* UCloudGPUImageHalftoneFilter.h */,
+				D7AF77501D28E48E00CA4F5F /* UCloudGPUImageHardLightBlendFilter.h */,
+				D7AF77511D28E48E00CA4F5F /* UCloudGPUImageHarrisCornerDetectionFilter.h */,
+				D7AF77521D28E48E00CA4F5F /* UCloudGPUImageHazeFilter.h */,
+				D7AF77531D28E48E00CA4F5F /* UCloudGPUImageHighlightShadowFilter.h */,
+				D7AF77541D28E48E00CA4F5F /* UCloudGPUImageHighPassFilter.h */,
+				D7AF77551D28E48E00CA4F5F /* UCloudGPUImageHistogramEqualizationFilter.h */,
+				D7AF77561D28E48E00CA4F5F /* UCloudGPUImageHistogramFilter.h */,
+				D7AF77571D28E48E00CA4F5F /* UCloudGPUImageHistogramGenerator.h */,
+				D7AF77581D28E48E00CA4F5F /* UCloudGPUImageHoughTransformLineDetector.h */,
+				D7AF77591D28E48E00CA4F5F /* UCloudGPUImageHSBFilter.h */,
+				D7AF775A1D28E48E00CA4F5F /* UCloudGPUImageHueBlendFilter.h */,
+				D7AF775B1D28E48E00CA4F5F /* UCloudGPUImageHueFilter.h */,
+				D7AF775C1D28E48E00CA4F5F /* UCloudGPUImageiOSBlurFilter.h */,
+				D7AF775D1D28E48E00CA4F5F /* UCloudGPUImageJFAVoronoiFilter.h */,
+				D7AF775E1D28E48E00CA4F5F /* UCloudGPUImageKuwaharaFilter.h */,
+				D7AF775F1D28E48E00CA4F5F /* UCloudGPUImageKuwaharaRadius3Filter.h */,
+				D7AF77601D28E48E00CA4F5F /* UCloudGPUImageLanczosResamplingFilter.h */,
+				D7AF77611D28E48E00CA4F5F /* UCloudGPUImageLaplacianFilter.h */,
+				D7AF77621D28E48E00CA4F5F /* UCloudGPUImageLevelsFilter.h */,
+				D7AF77631D28E48E00CA4F5F /* UCloudGPUImageLightenBlendFilter.h */,
+				D7AF77641D28E48E00CA4F5F /* UCloudGPUImageLinearBurnBlendFilter.h */,
+				D7AF77651D28E48E00CA4F5F /* UCloudGPUImageLineGenerator.h */,
+				D7AF77661D28E48E00CA4F5F /* UCloudGPUImageLocalBinaryPatternFilter.h */,
+				D7AF77671D28E48E00CA4F5F /* UCloudGPUImageLookupFilter.h */,
+				D7AF77681D28E48E00CA4F5F /* UCloudGPUImageLowPassFilter.h */,
+				D7AF77691D28E48E00CA4F5F /* UCloudGPUImageLuminanceRangeFilter.h */,
+				D7AF776A1D28E48E00CA4F5F /* UCloudGPUImageLuminanceThresholdFilter.h */,
+				D7AF776B1D28E48E00CA4F5F /* UCloudGPUImageLuminosity.h */,
+				D7AF776C1D28E48E00CA4F5F /* UCloudGPUImageLuminosityBlendFilter.h */,
+				D7AF776D1D28E48E00CA4F5F /* UCloudGPUImageMaskFilter.h */,
+				D7AF776E1D28E48E00CA4F5F /* UCloudGPUImageMedianFilter.h */,
+				D7AF776F1D28E48E00CA4F5F /* UCloudGPUImageMissEtikateFilter.h */,
+				D7AF77701D28E48E00CA4F5F /* UCloudGPUImageMonochromeFilter.h */,
+				D7AF77711D28E48E00CA4F5F /* UCloudGPUImageMosaicFilter.h */,
+				D7AF77721D28E48E00CA4F5F /* UCloudGPUImageMotionBlurFilter.h */,
+				D7AF77731D28E48E00CA4F5F /* UCloudGPUImageMotionDetector.h */,
+				D7AF77741D28E48E00CA4F5F /* UCloudGPUImageMovie.h */,
+				D7AF77751D28E48E00CA4F5F /* UCloudGPUImageMovieComposition.h */,
+				D7AF77761D28E48E00CA4F5F /* UCloudGPUImageMovieWriter.h */,
+				D7AF77771D28E48E00CA4F5F /* UCloudGPUImageMultiplyBlendFilter.h */,
+				D7AF77781D28E48E00CA4F5F /* UCloudGPUImageNobleCornerDetectionFilter.h */,
+				D7AF77791D28E48E00CA4F5F /* UCloudGPUImageNonMaximumSuppressionFilter.h */,
+				D7AF777A1D28E48E00CA4F5F /* UCloudGPUImageNormalBlendFilter.h */,
+				D7AF777B1D28E48E00CA4F5F /* UCloudGPUImageOpacityFilter.h */,
+				D7AF777C1D28E48E00CA4F5F /* UCloudGPUImageOpeningFilter.h */,
+				D7AF777D1D28E48E00CA4F5F /* UCloudGPUImageOutput.h */,
+				D7AF777E1D28E48E00CA4F5F /* UCloudGPUImageOverlayBlendFilter.h */,
+				D7AF777F1D28E48E00CA4F5F /* UCloudGPUImageParallelCoordinateLineTransformFilter.h */,
+				D7AF77801D28E48E00CA4F5F /* UCloudGPUImagePerlinNoiseFilter.h */,
+				D7AF77811D28E48E00CA4F5F /* UCloudGPUImagePicture+TextureSubimage.h */,
+				D7AF77821D28E48E00CA4F5F /* UCloudGPUImagePicture.h */,
+				D7AF77831D28E48E00CA4F5F /* UCloudGPUImagePinchDistortionFilter.h */,
+				D7AF77841D28E48E00CA4F5F /* UCloudGPUImagePixellateFilter.h */,
+				D7AF77851D28E48E00CA4F5F /* UCloudGPUImagePixellatePositionFilter.h */,
+				D7AF77861D28E48E00CA4F5F /* UCloudGPUImagePoissonBlendFilter.h */,
+				D7AF77871D28E48E00CA4F5F /* UCloudGPUImagePolarPixellateFilter.h */,
+				D7AF77881D28E48E00CA4F5F /* UCloudGPUImagePolkaDotFilter.h */,
+				D7AF77891D28E48E00CA4F5F /* UCloudGPUImagePosterizeFilter.h */,
+				D7AF778A1D28E48E00CA4F5F /* UCloudGPUImagePrewittEdgeDetectionFilter.h */,
+				D7AF778B1D28E48E00CA4F5F /* UCloudGPUImageRawDataInput.h */,
+				D7AF778C1D28E48E00CA4F5F /* UCloudGPUImageRawDataOutput.h */,
+				D7AF778D1D28E48E00CA4F5F /* UCloudGPUImageRGBClosingFilter.h */,
+				D7AF778E1D28E48E00CA4F5F /* UCloudGPUImageRGBDilationFilter.h */,
+				D7AF778F1D28E48E00CA4F5F /* UCloudGPUImageRGBErosionFilter.h */,
+				D7AF77901D28E48E00CA4F5F /* UCloudGPUImageRGBFilter.h */,
+				D7AF77911D28E48E00CA4F5F /* UCloudGPUImageRGBOpeningFilter.h */,
+				D7AF77921D28E48E00CA4F5F /* UCloudGPUImageSaturationBlendFilter.h */,
+				D7AF77931D28E48E00CA4F5F /* UCloudGPUImageSaturationFilter.h */,
+				D7AF77941D28E48E00CA4F5F /* UCloudGPUImageScreenBlendFilter.h */,
+				D7AF77951D28E48E00CA4F5F /* UCloudGPUImageSepiaFilter.h */,
+				D7AF77961D28E48E00CA4F5F /* UCloudGPUImageSharpenFilter.h */,
+				D7AF77971D28E48E00CA4F5F /* UCloudGPUImageShiTomasiFeatureDetectionFilter.h */,
+				D7AF77981D28E48E00CA4F5F /* UCloudGPUImageSingleComponentGaussianBlurFilter.h */,
+				D7AF77991D28E48E00CA4F5F /* UCloudGPUImageSketchFilter.h */,
+				D7AF779A1D28E48E00CA4F5F /* UCloudGPUImageSmoothToonFilter.h */,
+				D7AF779B1D28E48E00CA4F5F /* UCloudGPUImageSobelEdgeDetectionFilter.h */,
+				D7AF779C1D28E48E00CA4F5F /* UCloudGPUImageSoftEleganceFilter.h */,
+				D7AF779D1D28E48E00CA4F5F /* UCloudGPUImageSoftLightBlendFilter.h */,
+				D7AF779E1D28E48E00CA4F5F /* UCloudGPUImageSolidColorGenerator.h */,
+				D7AF779F1D28E48E00CA4F5F /* UCloudGPUImageSourceOverBlendFilter.h */,
+				D7AF77A01D28E48E00CA4F5F /* UCloudGPUImageSphereRefractionFilter.h */,
+				D7AF77A11D28E48E00CA4F5F /* UCloudGPUImageStillCamera.h */,
+				D7AF77A21D28E48E00CA4F5F /* UCloudGPUImageStretchDistortionFilter.h */,
+				D7AF77A31D28E48E00CA4F5F /* UCloudGPUImageSubtractBlendFilter.h */,
+				D7AF77A41D28E48E00CA4F5F /* UCloudGPUImageSwirlFilter.h */,
+				D7AF77A51D28E48E00CA4F5F /* UCloudGPUImageTextureInput.h */,
+				D7AF77A61D28E48E00CA4F5F /* UCloudGPUImageTextureOutput.h */,
+				D7AF77A71D28E48E00CA4F5F /* UCloudGPUImageThreeInputFilter.h */,
+				D7AF77A81D28E48E00CA4F5F /* UCloudGPUImageThresholdEdgeDetectionFilter.h */,
+				D7AF77A91D28E48E00CA4F5F /* UCloudGPUImageThresholdedNonMaximumSuppressionFilter.h */,
+				D7AF77AA1D28E48E00CA4F5F /* UCloudGPUImageThresholdSketchFilter.h */,
+				D7AF77AB1D28E48E00CA4F5F /* UCloudGPUImageTiltShiftFilter.h */,
+				D7AF77AC1D28E48E00CA4F5F /* UCloudGPUImageToneCurveFilter.h */,
+				D7AF77AD1D28E48E00CA4F5F /* UCloudGPUImageToonFilter.h */,
+				D7AF77AE1D28E48E00CA4F5F /* UCloudGPUImageTransformFilter.h */,
+				D7AF77AF1D28E48E00CA4F5F /* UCloudGPUImageTwoInputCrossTextureSamplingFilter.h */,
+				D7AF77B01D28E48E00CA4F5F /* UCloudGPUImageTwoInputFilter.h */,
+				D7AF77B11D28E48E00CA4F5F /* UCloudGPUImageTwoPassFilter.h */,
+				D7AF77B21D28E48E00CA4F5F /* UCloudGPUImageTwoPassTextureSamplingFilter.h */,
+				D7AF77B31D28E48E00CA4F5F /* UCloudGPUImageUIElement.h */,
+				D7AF77B41D28E48E00CA4F5F /* UCloudGPUImageUnsharpMaskFilter.h */,
+				D7AF77B51D28E48E00CA4F5F /* UCloudGPUImageVideoCamera.h */,
+				D7AF77B61D28E48E00CA4F5F /* UCloudGPUImageView.h */,
+				D7AF77B71D28E48E00CA4F5F /* UCloudGPUImageVignetteFilter.h */,
+				D7AF77B81D28E48E00CA4F5F /* UCloudGPUImageVoronoiConsumerFilter.h */,
+				D7AF77B91D28E48E00CA4F5F /* UCloudGPUImageWeakPixelInclusionFilter.h */,
+				D7AF77BA1D28E48E00CA4F5F /* UCloudGPUImageWhiteBalanceFilter.h */,
+				D7AF77BB1D28E48E00CA4F5F /* UCloudGPUImageXYDerivativeFilter.h */,
+				D7AF77BC1D28E48E00CA4F5F /* UCloudGPUImageZoomBlurFilter.h */,
 			);
 			path = Filter;
 			sourceTree = "<group>";
 		};
-		D71DE99D1D28E0B700608189 /* UCloudUI */ = {
+		D7AF77C11D28E48E00CA4F5F /* UCloudUI */ = {
 			isa = PBXGroup;
 			children = (
-				D71DE99E1D28E0B700608189 /* Class */,
-				D71DE9A91D28E0B700608189 /* PlayerManager.h */,
-				D71DE9AA1D28E0B700608189 /* PlayerManager.m */,
-				D71DE9AB1D28E0B700608189 /* Resuce */,
-				D71DE9C31D28E0B700608189 /* UCloudBrightnessView.h */,
-				D71DE9C41D28E0B700608189 /* UCloudBrightnessView.m */,
-				D71DE9C51D28E0B700608189 /* UCloudDefine.h */,
-				D71DE9C61D28E0B700608189 /* UCloudHeader.h */,
-				D71DE9C71D28E0B700608189 /* UCloudLoadingView.h */,
-				D71DE9C81D28E0B700608189 /* UCloudLoadingView.m */,
-				D71DE9C91D28E0B700608189 /* UCloudMediaViewController.h */,
-				D71DE9CA1D28E0B700608189 /* UCloudMediaViewController.m */,
-				D71DE9CB1D28E0B700608189 /* UCloudMediaViewController.xib */,
-				D71DE9CC1D28E0B700608189 /* UCloudProgressView.h */,
-				D71DE9CD1D28E0B700608189 /* UCloudProgressView.m */,
+				D7AF77C21D28E48E00CA4F5F /* Class */,
+				D7AF77CD1D28E48E00CA4F5F /* PlayerManager.h */,
+				D7AF77CE1D28E48E00CA4F5F /* PlayerManager.m */,
+				D7AF77CF1D28E48E00CA4F5F /* Resuce */,
+				D7AF77E71D28E48E00CA4F5F /* UCloudBrightnessView.h */,
+				D7AF77E81D28E48E00CA4F5F /* UCloudBrightnessView.m */,
+				D7AF77E91D28E48E00CA4F5F /* UCloudDefine.h */,
+				D7AF77EA1D28E48E00CA4F5F /* UCloudHeader.h */,
+				D7AF77EB1D28E48E00CA4F5F /* UCloudLoadingView.h */,
+				D7AF77EC1D28E48E00CA4F5F /* UCloudLoadingView.m */,
+				D7AF77ED1D28E48E00CA4F5F /* UCloudMediaViewController.h */,
+				D7AF77EE1D28E48E00CA4F5F /* UCloudMediaViewController.m */,
+				D7AF77EF1D28E48E00CA4F5F /* UCloudMediaViewController.xib */,
+				D7AF77F01D28E48E00CA4F5F /* UCloudProgressView.h */,
+				D7AF77F11D28E48E00CA4F5F /* UCloudProgressView.m */,
 			);
 			path = UCloudUI;
 			sourceTree = "<group>";
 		};
-		D71DE99E1D28E0B700608189 /* Class */ = {
+		D7AF77C21D28E48E00CA4F5F /* Class */ = {
 			isa = PBXGroup;
 			children = (
-				D71DE99F1D28E0B700608189 /* UIWindow+YzdHUD.h */,
-				D71DE9A01D28E0B700608189 /* UIWindow+YzdHUD.m */,
-				D71DE9A11D28E0B700608189 /* YzdHUDBackgroundView.h */,
-				D71DE9A21D28E0B700608189 /* YzdHUDBackgroundView.m */,
-				D71DE9A31D28E0B700608189 /* YzdHUDImageView.h */,
-				D71DE9A41D28E0B700608189 /* YzdHUDImageView.m */,
-				D71DE9A51D28E0B700608189 /* YzdHUDIndicator.h */,
-				D71DE9A61D28E0B700608189 /* YzdHUDIndicator.m */,
-				D71DE9A71D28E0B700608189 /* YzdHUDLabel.h */,
-				D71DE9A81D28E0B700608189 /* YzdHUDLabel.m */,
+				D7AF77C31D28E48E00CA4F5F /* UIWindow+YzdHUD.h */,
+				D7AF77C41D28E48E00CA4F5F /* UIWindow+YzdHUD.m */,
+				D7AF77C51D28E48E00CA4F5F /* YzdHUDBackgroundView.h */,
+				D7AF77C61D28E48E00CA4F5F /* YzdHUDBackgroundView.m */,
+				D7AF77C71D28E48E00CA4F5F /* YzdHUDImageView.h */,
+				D7AF77C81D28E48E00CA4F5F /* YzdHUDImageView.m */,
+				D7AF77C91D28E48E00CA4F5F /* YzdHUDIndicator.h */,
+				D7AF77CA1D28E48E00CA4F5F /* YzdHUDIndicator.m */,
+				D7AF77CB1D28E48E00CA4F5F /* YzdHUDLabel.h */,
+				D7AF77CC1D28E48E00CA4F5F /* YzdHUDLabel.m */,
 			);
 			path = Class;
 			sourceTree = "<group>";
 		};
-		D71DE9AB1D28E0B700608189 /* Resuce */ = {
+		D7AF77CF1D28E48E00CA4F5F /* Resuce */ = {
 			isa = PBXGroup;
 			children = (
-				D71DE9AC1D28E0B700608189 /* bg_screen_shot_complete.png */,
-				D71DE9AD1D28E0B700608189 /* bg_screen_shot_complete@2x.png */,
-				D71DE9AE1D28E0B700608189 /* bg_screen_shot_complete@3x.png */,
-				D71DE9AF1D28E0B700608189 /* bg_screen_shot_frame.png */,
-				D71DE9B01D28E0B700608189 /* bright_point.png */,
-				D71DE9B11D28E0B700608189 /* brightness_bgiphone.png */,
-				D71DE9B21D28E0B700608189 /* brightness_bg~iphone@3x.png */,
-				D71DE9B31D28E0B700608189 /* danmu.png */,
-				D71DE9B41D28E0B700608189 /* danmu_h.png */,
-				D71DE9B51D28E0B700608189 /* ic_screen_shot.png */,
-				D71DE9B61D28E0B700608189 /* icon_bottomview_brightness_button_normal.png */,
-				D71DE9B71D28E0B700608189 /* icon_bottomview_brightness_button_selected.png */,
-				D71DE9B81D28E0B700608189 /* icon_bottomview_pause_button_normal.png */,
-				D71DE9B91D28E0B700608189 /* icon_bottomview_play_button_normal.png */,
-				D71DE9BA1D28E0B700608189 /* icon_bottomview_volume_button_normal.png */,
-				D71DE9BB1D28E0B700608189 /* icon_bottomview_volume_button_selected.png */,
-				D71DE9BC1D28E0B700608189 /* icon_play_status.png */,
-				D71DE9BD1D28E0B700608189 /* icon_screen_shot_action.png */,
-				D71DE9BE1D28E0B700608189 /* icon_topview_left__button_selected.png */,
-				D71DE9BF1D28E0B700608189 /* icon_topview_left_button_normal.png */,
-				D71DE9C01D28E0B700608189 /* icon_topview_right_button_normal.png */,
-				D71DE9C11D28E0B700608189 /* icon_topview_right_button_selected.png */,
-				D71DE9C21D28E0B700608189 /* loading.png */,
+				D7AF77D01D28E48E00CA4F5F /* bg_screen_shot_complete.png */,
+				D7AF77D11D28E48E00CA4F5F /* bg_screen_shot_complete@2x.png */,
+				D7AF77D21D28E48E00CA4F5F /* bg_screen_shot_complete@3x.png */,
+				D7AF77D31D28E48E00CA4F5F /* bg_screen_shot_frame.png */,
+				D7AF77D41D28E48E00CA4F5F /* bright_point.png */,
+				D7AF77D51D28E48E00CA4F5F /* brightness_bgiphone.png */,
+				D7AF77D61D28E48E00CA4F5F /* brightness_bg~iphone@3x.png */,
+				D7AF77D71D28E48E00CA4F5F /* danmu.png */,
+				D7AF77D81D28E48E00CA4F5F /* danmu_h.png */,
+				D7AF77D91D28E48E00CA4F5F /* ic_screen_shot.png */,
+				D7AF77DA1D28E48E00CA4F5F /* icon_bottomview_brightness_button_normal.png */,
+				D7AF77DB1D28E48E00CA4F5F /* icon_bottomview_brightness_button_selected.png */,
+				D7AF77DC1D28E48E00CA4F5F /* icon_bottomview_pause_button_normal.png */,
+				D7AF77DD1D28E48E00CA4F5F /* icon_bottomview_play_button_normal.png */,
+				D7AF77DE1D28E48E00CA4F5F /* icon_bottomview_volume_button_normal.png */,
+				D7AF77DF1D28E48E00CA4F5F /* icon_bottomview_volume_button_selected.png */,
+				D7AF77E01D28E48E00CA4F5F /* icon_play_status.png */,
+				D7AF77E11D28E48E00CA4F5F /* icon_screen_shot_action.png */,
+				D7AF77E21D28E48E00CA4F5F /* icon_topview_left__button_selected.png */,
+				D7AF77E31D28E48E00CA4F5F /* icon_topview_left_button_normal.png */,
+				D7AF77E41D28E48E00CA4F5F /* icon_topview_right_button_normal.png */,
+				D7AF77E51D28E48E00CA4F5F /* icon_topview_right_button_selected.png */,
+				D7AF77E61D28E48E00CA4F5F /* loading.png */,
 			);
 			path = Resuce;
 			sourceTree = "<group>";
@@ -855,33 +895,34 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D71DE9E71D28E0B700608189 /* icon_play_status.png in Resources */,
-				D71DE9E81D28E0B700608189 /* icon_screen_shot_action.png in Resources */,
-				D71DE9F11D28E0B700608189 /* UCloudMediaViewController.xib in Resources */,
-				D71DE9DC1D28E0B700608189 /* brightness_bgiphone.png in Resources */,
+				D7AF78011D28E48E00CA4F5F /* bright_point.png in Resources */,
+				D7AF78101D28E48E00CA4F5F /* icon_topview_left_button_normal.png in Resources */,
+				D7AF780A1D28E48E00CA4F5F /* icon_bottomview_play_button_normal.png in Resources */,
+				D7AF78041D28E48E00CA4F5F /* danmu.png in Resources */,
+				D7AF78051D28E48E00CA4F5F /* danmu_h.png in Resources */,
+				D7AF780E1D28E48E00CA4F5F /* icon_screen_shot_action.png in Resources */,
+				D7AF77FF1D28E48E00CA4F5F /* bg_screen_shot_complete@3x.png in Resources */,
+				D7AF78091D28E48E00CA4F5F /* icon_bottomview_pause_button_normal.png in Resources */,
+				D7AF78081D28E48E00CA4F5F /* icon_bottomview_brightness_button_selected.png in Resources */,
+				D7AF78111D28E48E00CA4F5F /* icon_topview_right_button_normal.png in Resources */,
+				D7AF77FE1D28E48E00CA4F5F /* bg_screen_shot_complete@2x.png in Resources */,
+				D7AF78121D28E48E00CA4F5F /* icon_topview_right_button_selected.png in Resources */,
+				D7AF78061D28E48E00CA4F5F /* ic_screen_shot.png in Resources */,
+				D7AF78171D28E48E00CA4F5F /* UCloudMediaViewController.xib in Resources */,
+				D7AF78001D28E48E00CA4F5F /* bg_screen_shot_frame.png in Resources */,
+				D7AF78071D28E48E00CA4F5F /* icon_bottomview_brightness_button_normal.png in Resources */,
+				D7AF78031D28E48E00CA4F5F /* brightness_bg~iphone@3x.png in Resources */,
 				D71DE8BF1D28DFE100608189 /* LaunchScreen.storyboard in Resources */,
-				D71DE9E31D28E0B700608189 /* icon_bottomview_pause_button_normal.png in Resources */,
-				D71DE9D91D28E0B700608189 /* bg_screen_shot_complete@3x.png in Resources */,
-				D71DE9EC1D28E0B700608189 /* icon_topview_right_button_selected.png in Resources */,
-				D71DE9E01D28E0B700608189 /* ic_screen_shot.png in Resources */,
-				D71DE9E11D28E0B700608189 /* icon_bottomview_brightness_button_normal.png in Resources */,
-				D71DE9E61D28E0B700608189 /* icon_bottomview_volume_button_selected.png in Resources */,
+				D7AF77FD1D28E48E00CA4F5F /* bg_screen_shot_complete.png in Resources */,
+				D7AF78131D28E48E00CA4F5F /* loading.png in Resources */,
+				D7AF78021D28E48E00CA4F5F /* brightness_bgiphone.png in Resources */,
+				D7AF780F1D28E48E00CA4F5F /* icon_topview_left__button_selected.png in Resources */,
+				D7AF780B1D28E48E00CA4F5F /* icon_bottomview_volume_button_normal.png in Resources */,
+				D7AF77F31D28E48E00CA4F5F /* UcCameraView.xib in Resources */,
 				D71DE8BC1D28DFE100608189 /* Assets.xcassets in Resources */,
+				D7AF780D1D28E48E00CA4F5F /* icon_play_status.png in Resources */,
 				D71DE8BA1D28DFE100608189 /* Main.storyboard in Resources */,
-				D71DE9ED1D28E0B700608189 /* loading.png in Resources */,
-				D71DE9DB1D28E0B700608189 /* bright_point.png in Resources */,
-				D71DE9DA1D28E0B700608189 /* bg_screen_shot_frame.png in Resources */,
-				D71DE9E21D28E0B700608189 /* icon_bottomview_brightness_button_selected.png in Resources */,
-				D71DE9E51D28E0B700608189 /* icon_bottomview_volume_button_normal.png in Resources */,
-				D71DE9E91D28E0B700608189 /* icon_topview_left__button_selected.png in Resources */,
-				D71DE9DD1D28E0B700608189 /* brightness_bg~iphone@3x.png in Resources */,
-				D71DE9E41D28E0B700608189 /* icon_bottomview_play_button_normal.png in Resources */,
-				D71DE9D71D28E0B700608189 /* bg_screen_shot_complete.png in Resources */,
-				D71DE9EA1D28E0B700608189 /* icon_topview_left_button_normal.png in Resources */,
-				D71DE9D81D28E0B700608189 /* bg_screen_shot_complete@2x.png in Resources */,
-				D71DE9EB1D28E0B700608189 /* icon_topview_right_button_normal.png in Resources */,
-				D71DE9DF1D28E0B700608189 /* danmu_h.png in Resources */,
-				D71DE9DE1D28E0B700608189 /* danmu.png in Resources */,
+				D7AF780C1D28E48E00CA4F5F /* icon_bottomview_volume_button_selected.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -906,20 +947,21 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D71DE9D61D28E0B700608189 /* PlayerManager.m in Sources */,
-				D71DE9D21D28E0B700608189 /* YzdHUDBackgroundView.m in Sources */,
-				D71DE9D51D28E0B700608189 /* YzdHUDLabel.m in Sources */,
-				D71DE9D41D28E0B700608189 /* YzdHUDIndicator.m in Sources */,
 				D71DE8B71D28DFE100608189 /* ViewController.m in Sources */,
-				D71DE9D31D28E0B700608189 /* YzdHUDImageView.m in Sources */,
+				D7AF77F81D28E48E00CA4F5F /* YzdHUDBackgroundView.m in Sources */,
+				D7AF77FB1D28E48E00CA4F5F /* YzdHUDLabel.m in Sources */,
+				D7AF77F91D28E48E00CA4F5F /* YzdHUDImageView.m in Sources */,
+				D7AF77F21D28E48E00CA4F5F /* UcCameraView.m in Sources */,
+				D7AF78141D28E48E00CA4F5F /* UCloudBrightnessView.m in Sources */,
+				D7AF77FA1D28E48E00CA4F5F /* YzdHUDIndicator.m in Sources */,
+				D7AF77F51D28E48E00CA4F5F /* FilterManager.m in Sources */,
+				D7AF77F71D28E48E00CA4F5F /* UIWindow+YzdHUD.m in Sources */,
+				D7AF78181D28E48E00CA4F5F /* UCloudProgressView.m in Sources */,
+				D7AF78151D28E48E00CA4F5F /* UCloudLoadingView.m in Sources */,
 				D71DE8B41D28DFE100608189 /* AppDelegate.m in Sources */,
-				D71DE9EF1D28E0B700608189 /* UCloudLoadingView.m in Sources */,
-				D71DE9D11D28E0B700608189 /* UIWindow+YzdHUD.m in Sources */,
-				D71DE9F21D28E0B700608189 /* UCloudProgressView.m in Sources */,
+				D7AF78161D28E48E00CA4F5F /* UCloudMediaViewController.m in Sources */,
 				D71DE8B11D28DFE100608189 /* main.m in Sources */,
-				D71DE9EE1D28E0B700608189 /* UCloudBrightnessView.m in Sources */,
-				D71DE9F01D28E0B700608189 /* UCloudMediaViewController.m in Sources */,
-				D71DE9CF1D28E0B700608189 /* FilterManager.m in Sources */,
+				D7AF77FC1D28E48E00CA4F5F /* PlayerManager.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -961,6 +1003,7 @@
 				D71DE8B91D28DFE100608189 /* Base */,
 			);
 			name = Main.storyboard;
+			path = ..;
 			sourceTree = "<group>";
 		};
 		D71DE8BD1D28DFE100608189 /* LaunchScreen.storyboard */ = {
@@ -1072,6 +1115,8 @@
 					"$(inherited)",
 					"$(PROJECT_DIR)/UCloudSDK/Player",
 					"$(PROJECT_DIR)/UCloudSDK/Recorder",
+					"$(PROJECT_DIR)/Vendors/UCloudSDK/Player",
+					"$(PROJECT_DIR)/Vendors/UCloudSDK/Recorder",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.uuzuche.AmYellowLive;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -1092,6 +1137,8 @@
 					"$(inherited)",
 					"$(PROJECT_DIR)/UCloudSDK/Player",
 					"$(PROJECT_DIR)/UCloudSDK/Recorder",
+					"$(PROJECT_DIR)/Vendors/UCloudSDK/Player",
+					"$(PROJECT_DIR)/Vendors/UCloudSDK/Recorder",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.uuzuche.AmYellowLive;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -1163,6 +1210,7 @@
 				D71DE8DB1D28DFE100608189 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		D71DE8DC1D28DFE100608189 /* Build configuration list for PBXNativeTarget "AmYellowLiveTests" */ = {
 			isa = XCConfigurationList;
@@ -1171,6 +1219,7 @@
 				D71DE8DE1D28DFE100608189 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		D71DE8DF1D28DFE100608189 /* Build configuration list for PBXNativeTarget "AmYellowLiveUITests" */ = {
 			isa = XCConfigurationList;
@@ -1179,6 +1228,7 @@
 				D71DE8E11D28DFE100608189 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
